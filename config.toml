@@ -1,5 +1,84 @@
 baseURL = "https://csullender.com/"
-languageCode = "en-us"
 title = "Colin Sullender"
+
 theme = "hugo-coder"
 
+languageCode = "en-us"
+defaultcontentlanguage = "en"
+
+canonifyurls = false
+
+[params]
+    author = "Colin Sullender"
+    info = "Postdoctoral Researcher and Biomedical Engineer"
+    description = "Welcome to the personal website of Colin Sullender, a postdoctoral researcher at the University of Texas at Austin specializing in optical imaging system design and digital image processing for biomedical applications."
+    keywords = "personal,blog,biomedical,engineer,optics,researcher"
+
+    avatarurl = "img/avatar.jpg"
+    favicon_32 = "img/favicon-32x32.png"
+    favicon_16 = "img/favicon-16x16.png"
+
+    colorscheme = "light"
+    enableGitInfo = true
+    hidecredits = false
+    hidecopyright = false
+    rtl = false
+
+
+# Menu Links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+
+
+# Social Links
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 1
+    url = "https://www.linkedin.com/in/csullender/"
+[[params.social]]
+    name = "ResearchGate"
+    icon = "fab fa-researchgate"
+    weight = 2
+    url = "https://www.researchgate.net/profile/Colin_Sullender"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github-square"
+    weight = 3
+    url = "https://github.com/shiruken/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter-square"
+    weight = 4
+    url = "https://twitter.com/shiruken/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 5
+    url = "https://www.instagram.com/shiruken/"
+[[params.social]]
+    name = "Reddit"
+    icon = "fab fa-reddit-square"
+    weight = 6
+    url = "https://www.reddit.com/user/shiruken"
+[[params.social]]
+    name = "LastFM"
+    icon = "fab fa-lastfm-square"
+    weight = 7
+    url = "https://www.last.fm/user/shiruken"
+[[params.social]]
+    name = "Goodreads"
+    icon = "fab fa-goodreads"
+    weight = 8
+    url = "https://www.goodreads.com/user/show/6443902-colin"
+[[params.social]]
+    name = "Pinterest"
+    icon = "fab fa-pinterest-square"
+    weight = 9
+    url = "https://www.pinterest.com/shiruken/"
