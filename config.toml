@@ -24,7 +24,6 @@ enableGitInfo = true
     colorscheme = "light"
     hidecredits = false
     hidecopyright = false
-    since = 2011
     rtl = false
     math = false
     
