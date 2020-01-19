@@ -3,11 +3,14 @@ title = "Colin Sullender"
 
 theme = "hugo-coder"
 
-languageCode = "en-us"
+languagecode = "en"
 defaultcontentlanguage = "en"
 
 canonifyurls = false
+enableGitInfo = true
 
+
+# Theme Parameters
 [params]
     author = "Colin Sullender"
     info = "Postdoctoral Researcher and Biomedical Engineer"
@@ -19,10 +22,13 @@ canonifyurls = false
     favicon_16 = "img/favicon-16x16.png"
 
     colorscheme = "light"
-    enableGitInfo = true
     hidecredits = false
     hidecopyright = false
+    since = 2011
     rtl = false
+    math = false
+    
+    commit = "https://github.com/shiruken/csullender.com-hugo/tree/"
 
 
 # Menu Links
