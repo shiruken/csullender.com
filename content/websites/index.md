@@ -27,7 +27,7 @@ I helped develop and currently maintain the website for my academic research lab
 
 # Google+ 'Science GIFs' Collection (2015 - 2018)
 
-[~~https://plus.google.com/collection/A2NSc~~](https://plus.google.com/collection/A2NSc "View the Science GIFs collection (Inaccessible)")
+[~~https://plus.google.com/collection/A2NSc~~](https://plus.google.com/collection/A2NSc "View the Science GIFs collection on Google+")
 
 [https://sciencegifs.csullender.com/](https://sciencegifs.csullender.com/ "View archive of the content from the Science GIFs collection")
 
