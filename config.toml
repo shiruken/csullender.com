@@ -6,6 +6,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
+paginate = 20
 canonifyurls = false
 enableGitInfo = true
 
@@ -30,7 +31,7 @@ pygmentsstyle = "solarized-dark"
     hidecopyright = false
     rtl = false
     math = false
-    
+
     commit = "https://github.com/shiruken/csullender.com-hugo/tree/"
 
 
@@ -38,11 +39,23 @@ pygmentsstyle = "solarized-dark"
 [[menu.main]]
     name = "About"
     weight = 1
-    url = "/about/"
+    url = "/about"
 [[menu.main]]
     name = "Blog"
     weight = 2
-    url  = "/posts/"
+    url  = "/posts"
+[[menu.main]]
+    name = "Research"
+    weight = 3
+    url  = "/research"
+[[menu.main]]
+    name = "Coding"
+    weight = 4
+    url  = "/coding"
+[[menu.main]]
+    name = "Science GIFs"
+    weight = 5
+    url  = "https://sciencegifs.csullender.com/"
 
 
 # Social Links
@@ -51,43 +64,58 @@ pygmentsstyle = "solarized-dark"
     icon = "fab fa-linkedin"
     weight = 1
     url = "https://www.linkedin.com/in/csullender/"
+    target = "_blank"
 [[params.social]]
     name = "ResearchGate"
     icon = "fab fa-researchgate"
     weight = 2
     url = "https://www.researchgate.net/profile/Colin_Sullender"
+    target = "_blank"
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github-square"
+    name = "ORCID"
+    icon = "fab fa-orcid"
     weight = 3
+    url = "https://orcid.org/0000-0003-4329-7708"
+    target = "_blank"
+[[params.social]]
+    name = "GitHub"
+    icon = "fab fa-github-square"
+    weight = 4
     url = "https://github.com/shiruken/"
+    target = "_blank"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter-square"
-    weight = 4
+    weight = 5
     url = "https://twitter.com/shiruken/"
+    target = "_blank"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram"
-    weight = 5
+    weight = 6
     url = "https://www.instagram.com/shiruken/"
+    target = "_blank"
 [[params.social]]
     name = "Reddit"
     icon = "fab fa-reddit-square"
-    weight = 6
+    weight = 7
     url = "https://www.reddit.com/user/shiruken"
+    target = "_blank"
 [[params.social]]
     name = "LastFM"
     icon = "fab fa-lastfm-square"
-    weight = 7
+    weight = 8
     url = "https://www.last.fm/user/shiruken"
+    target = "_blank"
 [[params.social]]
     name = "Goodreads"
     icon = "fab fa-goodreads"
-    weight = 8
+    weight = 9
     url = "https://www.goodreads.com/user/show/6443902-colin"
+    target = "_blank"
 [[params.social]]
     name = "Pinterest"
     icon = "fab fa-pinterest-square"
-    weight = 9
+    weight = 10
     url = "https://www.pinterest.com/shiruken/"
+    target = "_blank"
