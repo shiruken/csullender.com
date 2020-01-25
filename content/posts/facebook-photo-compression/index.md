@@ -5,6 +5,8 @@ draft: false
 tags: ['Blog', 'Facebook', 'Photography', 'Social Media', 'Tips', 'Web']
 ---
 
+{{< load-photoswipe >}}
+
 A couple weeks ago there was a [Reddit post on /r/Android](https://www.reddit.com/r/android/comments/3mjxz8/tip_if_uploading_images_to_facebook_use/) recommending Facebook users upload photos via the [mobile website](http://m.facebook.com) rather than the official Android Facebook app. The app reportedly compressed an original 8MP (4.5MB) photo to only 0.6MP (100kB) whereas the mobile website uploaded at 3MP (440kB). For a typical 4:3 ratio photograph, 0.6MP works out to neither dimension having more than 1000 pixels! Viewers on almost all current smartphones and tablets would be looking at an image smaller than their screen size. For a social network so heavily driven by photographs, you would think Facebook would do a better job maintaining some modicum of image quality. Most users probably have no idea their images are being so heavily degraded by uploading via the app. This blog examines the varying quality of Facebook image uploads in an attempt to identify the best option if you must upload to Facebook.
 
 In order to compare image quality, I'm going to use two original photos and upload them to Facebook via the desktop browser, mobile browser, iOS app, and Android app. The first image was taken on my Nexus 5 smartphone at its full 8MP resolution (3264x2448, 1.1MB).
@@ -27,17 +29,25 @@ In comparison, the desktop and mobile websites appear to limit the maximum width
 
 # Image #1
 
-{{< figure src="/posts/facebook-photo-compression/1_Desktop.jpg" caption="Desktop Website Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/1_Desktop_Diff.png" caption="Desktop Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Desktop.jpg" caption="Desktop Website Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Desktop_Diff.png" caption="Desktop Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/1_Mobile.jpg" caption="Mobile Website Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/1_Mobile_Diff.png" caption="Mobile Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Mobile.jpg" caption="Mobile Website Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Mobile_Diff.png" caption="Mobile Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/1_iPad.jpg" caption="iOS App Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/1_iPad_Diff.png" caption="iOS App Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/1_iPad.jpg" caption="iOS App Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/1_iPad_Diff.png" caption="iOS App Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/1_Android.jpg" caption="Android App Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/1_Android_Diff.png" caption="Android App Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Android.jpg" caption="Android App Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/1_Android_Diff.png" caption="Android App Difference Image" >}}
+{{< /gallery >}}
 
 For this image, the difference images highlight relatively minimal changes between the original and uploaded versions. The iOS app results in the most noticeable differences despite the Android version uploading at a slightly lower resolution. Both the desktop and mobile website versions do a good job maintaining the structure of the original image. Looking at a closeup, the compression on the iOS and Android versions is extremely apparent. The Android photo has significant artifacts and almost appears pixelated at this level of zoom.
 
@@ -45,17 +55,25 @@ For this image, the difference images highlight relatively minimal changes betwe
 
 # Image #2
 
-{{< figure src="/posts/facebook-photo-compression/2_Desktop.jpg" caption="Desktop Website Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/2_Desktop_Diff.png" caption="Desktop Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Desktop.jpg" caption="Desktop Website Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Desktop_Diff.png" caption="Desktop Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/2_Mobile.jpg" caption="Mobile Website Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/2_Mobile_Diff.png" caption="Mobile Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Mobile.jpg" caption="Mobile Website Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Mobile_Diff.png" caption="Mobile Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/2_iPad.jpg" caption="iOS App Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/2_iPad_Diff.png" caption="iOS App Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/2_iPad.jpg" caption="iOS App Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/2_iPad_Diff.png" caption="iOS App Difference Image" >}}
+{{< /gallery >}}
 
-{{< figure src="/posts/facebook-photo-compression/2_Android.jpg" caption="Android App Upload" >}}
-{{< figure src="/posts/facebook-photo-compression/2_Android_Diff.png" caption="Android App Difference Image" >}}
+{{< gallery hover-effect="none" caption-effect="appear" class="hugo-two-wide" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Android.jpg" caption="Android App Upload" >}}
+{{< figure link="/posts/facebook-photo-compression/2_Android_Diff.png" caption="Android App Difference Image" >}}
+{{< /gallery >}}
 
 The high resolution of Image #2 results in massive compression across all four uploads as indicated by the highly visible difference images. Again, the desktop and mobile uploads best retain the details of the original image. Zooming in on the edge of the trophy reveals the terrible quality of the iOS and Android uploads. The compression and reduction in resolution make the environment appear blurred and enormous blocking artifacts are present in both images.
 

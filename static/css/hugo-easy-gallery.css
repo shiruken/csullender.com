@@ -156,3 +156,28 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
+
+/* Five Tiles - Square */
+@media only screen and (min-width : 480px) {
+    .hugo-five .box {
+        width: 20%;
+        padding-bottom: 20%;
+    }
+}
+
+.hugo-five figcaption {
+    cursor: default;
+}
+
+.hugo-five figcaption p {
+    font-size: 1.25em;
+    line-height: 1.1em;
+}
+
+/* Two Tiles - 4:3 Aspect Ratio */
+@media only screen and (min-width : 480px) {
+    .hugo-two-wide .box {
+        width: 50%;
+        padding-bottom: 37.5%;
+    }
+}

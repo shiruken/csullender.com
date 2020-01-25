@@ -9,6 +9,7 @@ I'm really bad at picking my favorite music of the year, so I'll let the [LastFM
 
 # Top 10 Albums of 2013
 
+{{< gallery caption-position="center" caption-effect="fade" hover-effect="grow" class="hugo-five" >}}
 {{< figure src="/posts/top-music-of-2013/The+Bones+of+What+You+Believe.jpg" caption="CHVRCHES - The Bones of What You Believe" >}}
 {{< figure src="/posts/top-music-of-2013/In+A+Tidal+Wave+Of+Mystery.jpg" caption="Capital Cities - In A Tidal Wave Of Mystery" >}}
 {{< figure src="/posts/top-music-of-2013/Days+Are+Gone.jpg" caption="HAIM - Days Are Gone" >}}
@@ -19,9 +20,11 @@ I'm really bad at picking my favorite music of the year, so I'll let the [LastFM
 {{< figure src="/posts/top-music-of-2013/The+Lumineers.jpg" caption="The Lumineers - The Lumineers" >}}
 {{< figure src="/posts/top-music-of-2013/Secondhand+Rapture.jpg" caption="MS MR - Secondhand Rapture" >}}
 {{< figure src="/posts/top-music-of-2013/Icona+Pop.jpg" caption="Icona Pop - Icona Pop" >}}
+{{< /gallery >}}
 
 # Top 10 Artists of 2013
 
+{{< gallery caption-position="center" caption-effect="fade" hover-effect="grow" class="hugo-five" >}}
 {{< figure src="/posts/top-music-of-2013/CHVRCHES.jpg" caption="CHVRCHES" >}}
 {{< figure src="/posts/top-music-of-2013/Macklemore+Ryan+Lewis.jpg" caption="Macklemore & Ryan Lewis" >}}
 {{< figure src="/posts/top-music-of-2013/HAIM.jpg" caption="HAIM" >}}
@@ -32,3 +35,4 @@ I'm really bad at picking my favorite music of the year, so I'll let the [LastFM
 {{< figure src="/posts/top-music-of-2013/M83.jpg" caption="M83" >}}
 {{< figure src="/posts/top-music-of-2013/Icona+Pop1.jpg" caption="Icona Pop" >}}
 {{< figure src="/posts/top-music-of-2013/Moon+Taxi.jpg" caption="Moon Taxi" >}}
+{{< /gallery >}}
