@@ -9,6 +9,10 @@ defaultcontentlanguage = "en"
 canonifyurls = false
 enableGitInfo = true
 
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsstyle = "solarized-dark"
+
 
 # Theme Parameters
 [params]
