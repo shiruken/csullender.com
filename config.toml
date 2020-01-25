@@ -53,8 +53,12 @@ pygmentsstyle = "solarized-dark"
     weight = 4
     url  = "/coding"
 [[menu.main]]
-    name = "Science GIFs"
+    name = "Websites"
     weight = 5
+    url  = "/websites"
+[[menu.main]]
+    name = "Science GIFs"
+    weight = 6
     url  = "https://sciencegifs.csullender.com/"
 
 
