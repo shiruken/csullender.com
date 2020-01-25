@@ -1,0 +1,17 @@
+---
+title: 'The Qualifying Exam: Part II'
+date: Thu, 07 Jun 2012 15:45:46 +0000
+draft: false
+tags: ['Blog', 'Education', 'Graduate', 'Life', 'PDF', 'PhD', 'School', 'Science', 'UT', 'Writing']
+---
+
+As of yesterday afternoon I have completed and passed my qualifying exam for the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas](https://www.utexas.edu/). As I mentioned in an [earlier blog post]({{< relref "the-qualifying-exam-part-i" >}} "The Qualifying Exam: Part I"), the qualifying exam consists of two parts: a written response and an oral exam with a faculty committee. The written part was extremely straightforward and really just required the reading of background papers to adequately answer the questions. More than anything it just served as a starting point for preparing for the oral examination, which is much more open-ended and difficult to predict. All we were told were the time and place of the exam and the number of faculty members that would comprise the committee. There were four in total with two from my research area (Imaging and Instrumentation) and one from each of the other two research areas. Going into the meeting, that was literally the extent of my knowledge concerning the exam, which leaves the mind quite free to imagine horrible, horrible outcomes.
+
+As soon as I realized who was on my committee, I calmed down almost immediately. Three of the four I knew quite well and the fourth would know little about the technical details of the paper. Because I realized that no one there was known to be "mean" in any way imaginable, it became less of a formal presentation and much more like just another lab meeting. All I had to do was present this paper and answer any questions that might be asked. I actually managed to do the entire presentation sitting down rather than standing up, which I expect is the norm. The conversation flowed smoothly without any particularly difficult questions (excluding the one pertaining to a specific citation of which I could not recall the specific details). The only topics that I had been worried about prior to the exam was my minimal knowledge about neurobiology, which fortunately turned out to be sufficient for discussing the concepts of the paper. So about 45 minutes after starting, I was asked to leave the room while the committee briefly discussed my fate. About five minutes later I was called back in and told I passed the exam without any conditions. The faculty that knew the research I was working on recommended that I brush up on my neurobiology (I need to learn it first right?) but other than that I had done wonderfully. My written exam was even described as being "phenomenal" and the "best \[he's\] ever read" from a qualifying exam. So with that, I have officially ended my first year of my PhD requirements. I now get to spend the summer playing with lasers and mirrors and do science. Good thing that's why I signed up for this in the first place.
+
+![KeeN Clapping](https://i.imgur.com/GAuaS.gif)
+
+I've attached the entirety of my written exam below. My entire qualifying exam pertained to the Nature Methods paper [_Simultaneous two-photon calcium imaging at different depths with spatiotemporal multiplexing_](https://doi.org/10.1038/nmeth.1552) by Adrian Cheng, _et al_. A complete list of references can be found at the end of the written response.
+
+* [Questions](Questions.pdf)
+* [Written Response](SullenderQualifying.pdf)

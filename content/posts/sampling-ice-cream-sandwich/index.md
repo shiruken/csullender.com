@@ -1,0 +1,15 @@
+---
+title: 'Sampling Ice Cream Sandwich'
+date: Thu, 09 Feb 2012 06:22:31 +0000
+draft: false
+tags: ['Android', 'AOSP', 'Blog', 'CyanogeMod', 'Desire HD', 'HTC', 'Inspire', 'Phone', 'ROM', 'Smartphone', 'Software', 'Tech']
+---
+
+I recently started looking for an Android 4.0 "Ice Cream Sandwich" ROM for my HTC Inspire (Desire HD) after using [CyanogenMod](http://www.cyanogenmod.com/) for quite some time. The last nightly CM7 build for Ace was back in November and they're still [working hard at getting CM9 up an running](http://www.cyanogenmod.com/blog/progress-on-cm9). While perusing the [XDA Forums](http://forum.xda-developers.com/) for some alternatives to CM7, I ran across an [awesome Desire HD build called aospX](http://code.google.com/p/aospx/) by Existz. After a quick backup and swap to the recommended radio, I flashed the new ICS-based ROM and was quite pleasantly surprised by the improvements in the latest iteration of the Android operating system (4.0.3 in this case). Aside from feeling considerably more responsive, this ICS build really seems to fix a lot of issues that afflicted the older Gingerbread ROMs I've used in the past. The built-in data tracking system and seemingly longer battery life are huge factors for me. The ability to launch a camera from the lock screen is incredibly convenient and the new-and-improved Google apps and widgets are orders of magnitude better than their predecessors.
+
+[![Existz Branding](Existz.jpg)](http://forum.xda-developers.com/member.php?u=3696087 "Image by beforedenied on the XDA Forums")
+
+As with any early builds (they've labeled it as "alpha" right now), there are some quirks still to be worked out. The display of text will occasionally become distorted and require a restart to fix. I've suffered from numerous random restarts and freezes that usually end up requiring a battery pull (horrible thing considering the poor design of the device's battery cover). When I first started customizing the layout of my home screen, I was somewhat frustrated with the permanent Google search bar at the top of every single home screen window. Why is such a thing necessary when there is already a dedicated search button on the device? I've gotten used to its presence, but I still haven't intentionally accessed the search feature through that route. Fortunately, the very active development team seems to be powering away at the bugs and have already significantly improved this ROM in only a matter of weeks. If you're rocking an HTC Inspire/Desire HD, I'd definitely recommend [aospX](http://code.google.com/p/aospx/) for your first ICS test-drive.
+
+**Update:**
+The most recent update to this ROM has added the ability to customize the homescreen (finally) including the number of screens and the option to remove the persistant Google search bar. Unfortunately, since that space isn't reoccupied by the app icons when the search bar is removed, it leaves quite a noticeable gap at the top of the display.
