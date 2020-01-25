@@ -11,6 +11,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 **Advisor:** [Andrew K. Dunn, Ph.D.](https://foil.bme.utexas.edu/ "View lab website") ([Department of Biomedical Engineering](https://www.bme.utexas.edu/ "Visit the Department of Biomedical Engineering website"))
 
 **Projects**
+
 * Designed, implemented, and optimized quantitative multimodal optical imaging platform for studying the neurovascular hemodynamics of ischemic stroke.
 * Rapid development of clinical laser speckle contrast imaging (LSCI) system for intraoperative blood flow monitoring during neurosurgery.
 * Modernized multi-exposure speckle imaging (MESI) optical system
@@ -20,6 +21,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 **Dissertation:** _Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_ (August 2018)
 
 **Papers**
+
 * [Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex (_Journal of Neuroscience_, 2019)](https://doi.org/10.1523/JNEUROSCI.1141-19.2019)
 * [Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments (_Scientific Reports_, 2019)](https://doi.org/10.1038/s41598-019-39092-7)
 * [Imaging of cortical oxygen tension and blood flow following targeted photothrombotic stroke (_Neurophotonics_, 2018)](https://doi.org/10.1117/1.NPh.5.3.035003)
@@ -27,6 +29,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * [In vivo multiphoton imaging of a diverse array of fluorophores to investigate deep neurovascular structure (_Biomedical Optics Express_, 2017)](https://doi.org/10.1364/BOE.8.003470)
 
 **Posters**
+
 * Computational speckle contrast optical tomography (SPIE BiOS 2019)
 * A fast three-dimensional dynamic light scattering computational model for imaging through turbid media (Advances in Optics for Biotechnology, Medicine and Surgery XVI 2019)
 * Targeted photothrombotic stroke: a method for producing upper extremity impairments in mice (Neuroscience 2016)
