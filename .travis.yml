@@ -1,4 +1,4 @@
-os: linxu
+os: linux
 arch: arm64
 dist: xenial
 language: node_js
