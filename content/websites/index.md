@@ -9,12 +9,13 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https:
 
 # Reddit r/science (2015 - Current)
 
-[reddit.com/r/science](https://www.reddit.com/r/science/)
+[reddit.com/r/science](https://www.reddit.com/r/science/ "Visit the r/science subreddit")
 
 The r/science community on Reddit is the largest science discussion platform on the internet with over 23 million subscribers and tens of millions of monthly pageviews. As a lead moderator of this subreddit, I help establish community policy and guide scientific discourse. Our [Ask Me Anything](https://www.reddit.com/r/science/search?q=flair%3AAMA&sort=top&restrict_sr=on&t=all) and [Science Discussion](https://www.reddit.com/r/science/search?q=flair:Discussion&restrict_sr=on&sort=new&t=all) series have hosted hundreds of scientists, engineers, doctors, and other experts to discuss their current work with a more general audience. Some of our most popular guests have included [Stephen Hawking](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/), [George Church](https://www.reddit.com/r/science/comments/4fbcyv/science_ama_series_im_george_church_professor_at/), [Jennifer Doudna](https://www.reddit.com/r/science/comments/7r9pgw/hi_were_here_to_talk_about_all_things_crispr_and/), and numerous members of [NASA](https://www.reddit.com/r/science/search/?q=flair%3ANASA&restrict_sr=1&sort=top), ESA, [NOAA](https://www.reddit.com/r/science/search/?q=flair%3ANOAA&restrict_sr=1&sort=top), and NIH.
 
 Behind the scenes, I implemented a comprehensive tracking system using the Reddit API in order to better understand the dynamics and reach of our content, optimize automated moderation practices, and to guide future decision making for the subreddit. I also designed the current branding and style used by the desktop website.
 
+[![Screenshot of Reddit r/science](Reddit-Science.png)](https://www.reddit.com/r/science/ "Visit the r/science subreddit")
 
 # Functional Optical Imaging Laboratory (2014 - Current)
 
@@ -22,7 +23,7 @@ Behind the scenes, I implemented a comprehensive tracking system using the Reddi
 
 I helped develop and currently maintain the website for my academic research lab at the University of Texas at Austin. We wanted a platform that did not require editing raw HTML in order to update content such as member lists and publications. The website was built using [Django](https://www.djangoproject.com/) and [Bootstrap](https://getbootstrap.com/) to be fully responsive across a variety of devices.
 
-[![Screenshot of FOIL website](FOIL.jpg)](https://foil.bme.utexas.edu/ "Visit the FOIL website")
+[![Screenshot of FOIL website](FOIL.png)](https://foil.bme.utexas.edu/ "Visit the FOIL website")
 
 
 # Google+ 'Science GIFs' Collection (2015 - 2018)
