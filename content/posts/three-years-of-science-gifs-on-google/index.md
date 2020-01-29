@@ -2,7 +2,7 @@
 title: 'Three Years of ''Science GIFs'' on Google+'
 date: Tue, 08 May 2018 03:13:34 +0000
 draft: false
-tags: ['Blog', 'Education', 'GIF', 'Google', 'Science', 'social network']
+tags: ['Web', 'Google+', 'Science', 'Data Visualization']
 ---
 
 Three years ago, Google [announced](https://plus.google.com/+googleplus/posts/7ZpGWeou2sV) the Collections feature on the Google+ social network. It offered a way to group posts by topic so that others could follow their specific interests rather than [your entire profile](https://plus.google.com/+ColinSullender). I created two collections, [Data is Beautiful](https://plus.google.com/collection/MX98P) and [Science GIFs](https://plus.google.com/collection/A2NSc), the latter of which I've maintained for almost three years now. Every week I post a science-related GIF and an accompanying explanation of the finding, physical phenomenon, or chemical reaction. I try to feature recent research publications and announcements whenever possible to avoid reposting content seen elsewhere online.

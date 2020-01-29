@@ -2,7 +2,7 @@
 title: 'Hackintosh 2.0'
 date: Thu, 12 Mar 2015 04:58:06 +0000
 draft: false
-tags: ['Apple', 'Blog', 'Computer', 'Hackintosh', 'Hardware', 'Mac', 'Macintosh', 'Tips']
+tags: ['Hackintosh', 'Apple', 'Tips & Tricks']
 ---
 
 It's been roughly two years since I built my [original Hackintosh]({{< relref "the-hackintosh" >}} "The Hackintosh") desktop computer and I decided earlier this year that the time was ripe for an upgrade. After considerable waffling on the exact components to get, I finally settled on an relatively high-end build largely based on the [December CustoMac Buyer's Guide](http://www.tonymacx86.com/building-customac-buyers-guide-december-2014.html) that reused a few components from my original Hackintosh ([case](http://www.newegg.com/Product/Product.aspx?Item=N82E16811139008), [power supply](http://www.newegg.com/Product/Product.aspx?Item=N82E16817371031), and [memory](http://www.newegg.com/Product/Product.aspx?Item=N82E16820231429)).

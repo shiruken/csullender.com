@@ -2,7 +2,7 @@
 title: 'SXSW 2015'
 date: Fri, 27 Mar 2015 02:26:50 +0000
 draft: false
-tags: ['Austin', 'Blog', 'Fitbit', 'Life', 'Music', 'Photography', 'SXSW']
+tags: ['Life', 'Austin', 'SXSW', 'Music', 'Photography', 'Data Visualization']
 ---
 
 Another year, another South By, another week of extensive walking and partaking in free parties and concerts. SXSW 2015 has truly turned Austin into a spring break for mid 20-year-olds. As usual, I always go in with zero expectations and just tried to have a good time.

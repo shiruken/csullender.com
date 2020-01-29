@@ -2,7 +2,7 @@
 title: 'Sampling Ice Cream Sandwich'
 date: Thu, 09 Feb 2012 06:22:31 +0000
 draft: false
-tags: ['Android', 'AOSP', 'Blog', 'CyanogeMod', 'Desire HD', 'HTC', 'Inspire', 'Phone', 'ROM', 'Smartphone', 'Software', 'Tech']
+tags: ['Android', 'Software']
 ---
 
 I recently started looking for an Android 4.0 "Ice Cream Sandwich" ROM for my HTC Inspire (Desire HD) after using [CyanogenMod](http://www.cyanogenmod.com/) for quite some time. The last nightly CM7 build for Ace was back in November and they're still [working hard at getting CM9 up an running](http://www.cyanogenmod.com/blog/progress-on-cm9). While perusing the [XDA Forums](http://forum.xda-developers.com/) for some alternatives to CM7, I ran across an [awesome Desire HD build called aospX](http://code.google.com/p/aospx/) by Existz. After a quick backup and swap to the recommended radio, I flashed the new ICS-based ROM and was quite pleasantly surprised by the improvements in the latest iteration of the Android operating system (4.0.3 in this case). Aside from feeling considerably more responsive, this ICS build really seems to fix a lot of issues that afflicted the older Gingerbread ROMs I've used in the past. The built-in data tracking system and seemingly longer battery life are huge factors for me. The ability to launch a camera from the lock screen is incredibly convenient and the new-and-improved Google apps and widgets are orders of magnitude better than their predecessors.

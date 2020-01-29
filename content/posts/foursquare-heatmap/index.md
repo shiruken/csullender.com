@@ -2,7 +2,7 @@
 title: 'Foursquare Heatmap'
 date: Fri, 27 Dec 2013 23:06:19 +0000
 draft: false
-tags: ['Austin', 'Blog', 'Coding', 'Foursquare', 'Life', 'Map', 'Quantified Self']
+tags: ['Life', 'Austin', 'Coding', 'Quantified Self']
 ---
 
 I'm a regular user of the location-based social network [Foursquare](https://foursquare.com/) mainly as a source of recommendations for new places to try. I typically check in everywhere I go with the exception of private residences (can't let people stalk me that easily), so I have a pretty extensive log covering my location history. While it's not quite as extensive as the [Google Maps Location History](https://maps.google.com/locationhistory/b/0), it does a good job representing the places I visit.

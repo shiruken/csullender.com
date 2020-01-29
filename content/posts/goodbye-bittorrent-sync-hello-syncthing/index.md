@@ -2,7 +2,7 @@
 title: 'Goodbye BitTorrent Sync. Hello Syncthing.'
 date: Sun, 28 Feb 2016 19:26:02 +0000
 draft: false
-tags: ['Blog', 'Computer', 'Server', 'Software', 'Tips']
+tags: ['Software', 'Tips & Tricks']
 ---
 
 I first started using [BitTorrent Sync](https://www.getsync.com/) back during its Alpha release in early 2013 as an alternative to Dropbox for syncing large quantities of files across my work computers. I needed an easy way to automatically transfer data from my collection computer to the lab server for storage and to my office computer for post-processing. While I have much more free storage than your average non-paying Dropbox user, I needed to regularly transfer tens of gigabytes of files without any need of uploading to the Internet/cloud. BitTorrent Sync seemed to fulfill that need almost perfectly and was vastly easier than constantly running rsync commands.

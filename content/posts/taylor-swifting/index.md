@@ -2,7 +2,7 @@
 title: 'Taylor Swifting'
 date: Sun, 30 Nov 2014 06:28:36 +0000
 draft: false
-tags: ['Blog', 'Coding', 'LastFM', 'Music', 'Web']
+tags: ['Coding', 'Web', 'Music', 'LastFM']
 ---
 
 I had a [really random idea](https://twitter.com/shiruken/status/536957959503241217) the other day for a simple coding project using the LastFM API: When was the last time you listened to Taylor Swift? This is obviously an extremely important statistic to know for the Taylor Swift obsessed. I already made a tool to [lookup the first time you listened to an artist](/first) using your LastFM profile, so this was a relatively straightforward adaptation. I also wanted to take this opportunity to leverage the power of [jQuery](http://jquery.com/) to asynchronously load the information rather than simply waiting for a static page. Check out [The Last Swifting](/swifting) page or continue reading for more information.

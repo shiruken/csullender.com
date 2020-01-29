@@ -2,7 +2,7 @@
 title: 'Sad Mac: The Chronology of a Broken MacBook Pro'
 date: Sat, 01 Sep 2012 18:08:14 +0000
 draft: false
-tags: ['Apple', 'Blog', 'GPU', 'Hardware', 'Repair', 'Review', 'Store']
+tags: ['Life', 'Apple']
 ---
 
 The following is a record of the problems I encountered with my MacBook Pro (Early 2011) beginning in late August and hopefully culminating in a once-again functional laptop. I'm making an effort to document all of the steps I took in attempting to rectify the situation including my experience with the Apple Retail Store. I've had great experiences with the repair team at Apple Stores in the past and I hope this will continue the trend.

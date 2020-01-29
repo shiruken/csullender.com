@@ -2,7 +2,7 @@
 title: 'Top Music of 2013'
 date: Sun, 05 Jan 2014 23:35:36 +0000
 draft: false
-tags: ['Blog', 'LastFM', 'Music']
+tags: ['Music', 'LastFM']
 ---
 
 I'm really bad at picking my favorite music of the year, so I'll let the [LastFM audioscrobbler](http://www.last.fm/user/shiruken) do it for me. I figure I listen to whatever I like the most, so it should more or less be representative of my picks for the year. What follows are my _favorite_ albums and artists of the year based on playcounts!

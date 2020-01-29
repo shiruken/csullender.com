@@ -2,7 +2,7 @@
 title: 'LastFM First Listen'
 date: Tue, 26 Mar 2013 03:55:01 +0000
 draft: false
-tags: ['Blog', 'Coding', 'Internet', 'LastFM', 'Music', 'Web', 'Website']
+tags: ['Coding', 'Web', 'Music', 'LastFM']
 ---
 
 When was the first time you listened to M83? What about LIGHTS? If you're a [LastFM](http://www.last.fm/) user, then I've made a [little web-app](/first) you can use to look it up! All you need is an active LastFM account and to have been tracking your music listening with their scrobbling service.

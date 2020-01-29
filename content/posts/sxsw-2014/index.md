@@ -2,7 +2,7 @@
 title: 'SXSW 2014'
 date: Mon, 17 Mar 2014 00:43:44 +0000
 draft: false
-tags: ['ATX', 'Austin', 'Blog', 'Fitbit', 'Life', 'Photography', 'SXSW']
+tags: ['Life', 'Austin', 'SXSW', 'Music', 'Photography', 'Data Visualization']
 ---
 
 Another crazy [SXSW](http://sxsw.com/) has come and gone in Austin, TX, and I'm completely exhausted. Unlike the past two years where most of my participation was during the Music portion of the festival, I explored extensively during Interactive (i.e. earlier). The biggest events I attended were the Dropbox party and the multi-day Rachael Ray Feedback House Party. The first was at a brand new bar on Rainey Street called [Container Bar](http://austincontainerbar.com/) and featured live music from Wild Cub (they're gonna blow up). The second was at an event space on East Cesar Chavez called [Chick Ranch](https://www.facebook.com/pages/Chick-Ranch-Austin/697801683571177) and featured tons of live bands and BBQ from a Chicago restaurant called [Lillies](http://www.lilliesq.com/). I managed to snag invites to both events for myself and a ton of my friends through some Twitter magic. Besides those, I walked around to a ton of the open venues all across downtown Austin to catch music and eat/drink free stuff. If you're interested in seeing my photos, check out [the Flickr set here](https://www.flickr.com/photos/shiruken/sets/72157642462282474/).

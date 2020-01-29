@@ -2,7 +2,7 @@
 title: 'Google Scholar Visualization'
 date: Sun, 08 Feb 2015 16:59:45 +0000
 draft: false
-tags: ['Automation', 'Blog', 'Coding', 'Research', 'Science', 'Visualization', 'Web']
+tags: ['Coding', 'Web', 'Science', 'Data Visualization']
 ---
 
 One of the most common images I see during science presentations is the frequency of publications within a particular field over time. It's a great way to show the growth of the field while attempting to validate the worthiness of the research that follows. As far as I can tell, most people manually assemble this data with sequential searches on [Google Scholar](https://scholar.google.com/) or [Web of Science](https://webofknowledge.com/). This seemed like a straightforward opportunity for automation, so [I made a little website](http://www.csullender.com/scholar/) that does just that. It takes a Google Scholar search query and a range of years and plots the number of results over time.

@@ -2,7 +2,7 @@
 title: 'Hackintosh 2.0 Benchmark'
 date: Mon, 23 Mar 2015 21:37:09 +0000
 draft: false
-tags: ['Blog', 'Computer', 'Hackintosh', 'Hardware', 'Mac', 'Quantified Self']
+tags: ['Hackintosh', 'Apple', 'Data Visualization']
 ---
 
 Since I am obsessed with quantifying things, I absolutely had to benchmark my [new Hackintosh rig]({{< relref "hackintosh-2.0" >}} "Hackintosh 2.0") to see what my new purchases had afforded cost me. I ran a handful of different benchmarks under both OS X and Windows boots to see what the [Intel Core i5-4690K](http://www.newegg.com/Product/Product.aspx?Item=N82E16819117372), [EVGA GeForce GTX 970 SC](http://www.newegg.com/Product/Product.aspx?Item=N82E16814487076), and [Samsung 850 Pro](http://www.newegg.com/Product/Product.aspx?Item=N82E16820147360) could do. So without further ado, here are the results of my benchmarks!

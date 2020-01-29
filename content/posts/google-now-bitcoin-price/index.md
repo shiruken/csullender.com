@@ -2,7 +2,7 @@
 title: 'Get the Price of Bitcoin with Google Now'
 date: Fri, 10 Jan 2014 00:31:28 +0000
 draft: false
-tags: ['Android', 'Automation', 'Bitcoin', 'Blog', 'Cryptocurrency', 'Tasker', 'Tips', 'Tricks']
+tags: ['Android', 'Automation', 'Cryptocurrency', 'Bitcoin', 'Tips & Tricks']
 ---
 
 The digital currency [Bitcoin](http://bitcoin.org/) has [grown increasingly popular](https://blockchain.info/charts/market-cap) in [recent months](http://www.google.com/trends/explore#q=bitcoin&date=1%2F2012%2025m&cmpt=q) as [more and more businesses have begun accepting](https://en.bitcoin.it/wiki/Trade) the peer-to-peer cryptocurrency. Keeping up with the highly volatile price of Bitcion (BTC) is a must for traders, who use exchanges such as [Mt.Gox](https://www.mtgox.com/) or [BTC-E](https://btc-e.com/) to turn a profit. Even the casual holder through services such as [Coinbase](https://coinbase.com/) need to see how much their BTC are worth. While there are [many websites](http://bitcoinwisdom.com/) that track the price of BTC across exchanges, there is no official integration into Google's search engine. For Android users, Google Now/Search is at the heart of their device's functionality. [MohammadAG recently released an XPOSED module](http://forum.xda-developers.com/showthread.php?p=48109086#post48109086) that adds an API to the Google Search app. This guide will help you install the necessary applications and modifications to use the "Okay Google" voice command to get the current price of Bitcoin on Mt.Gox from [BitcoinWisdom](http://bitcoinwisdom.com/).

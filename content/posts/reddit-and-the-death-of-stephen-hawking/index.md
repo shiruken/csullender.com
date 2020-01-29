@@ -2,7 +2,7 @@
 title: 'Reddit and the Death of Stephen Hawking'
 date: Mon, 30 Apr 2018 04:46:40 +0000
 draft: false
-tags: ['Analytics', 'Blog', 'Data', 'Reddit', 'Web']
+tags: ['Web', 'Reddit', 'Science', 'Data Visualization']
 ---
 
 As the news of [Stephen Hawking's death](http://www.bbc.com/news/uk-43396008) reverberated across the internet, the [r/science community](https://www.reddit.com/r/science/) on Reddit made an unusual post: [An opportunity to discuss the life of one of humanity's greatest minds](https://www.reddit.com/r/science/comments/84aiy6/physicist_stephen_hawking_dies_aged_76/). It was the first post of its kind in a subreddit normally dedicated to talking about science papers. However, the moderator team decided his passing warranted acknowledgement given his contributions to physics and his role as the most widely recognized science communicator on the planet. He had also previously participated in [an Ask Me Anything](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/) in our subreddit.

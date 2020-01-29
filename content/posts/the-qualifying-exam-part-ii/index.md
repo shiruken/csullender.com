@@ -2,7 +2,7 @@
 title: 'The Qualifying Exam: Part II'
 date: Thu, 07 Jun 2012 15:45:46 +0000
 draft: false
-tags: ['Blog', 'Education', 'Graduate', 'Life', 'PDF', 'PhD', 'School', 'Science', 'UT', 'Writing']
+tags: ['Life', 'Education', 'Science']
 ---
 
 As of yesterday afternoon I have completed and passed my qualifying exam for the [Department of Biomedical Engineering](https://www.bme.utexas.edu/) at the [University of Texas](https://www.utexas.edu/). As I mentioned in an [earlier blog post]({{< relref "the-qualifying-exam-part-i" >}} "The Qualifying Exam: Part I"), the qualifying exam consists of two parts: a written response and an oral exam with a faculty committee. The written part was extremely straightforward and really just required the reading of background papers to adequately answer the questions. More than anything it just served as a starting point for preparing for the oral examination, which is much more open-ended and difficult to predict. All we were told were the time and place of the exam and the number of faculty members that would comprise the committee. There were four in total with two from my research area (Imaging and Instrumentation) and one from each of the other two research areas. Going into the meeting, that was literally the extent of my knowledge concerning the exam, which leaves the mind quite free to imagine horrible, horrible outcomes.

@@ -2,7 +2,7 @@
 title: 'Full Page Background Image with CSS3'
 date: Tue, 06 Jan 2015 06:08:35 +0000
 draft: false
-tags: ['Blog', 'CSS', 'Design', 'Tips', 'Tricks', 'Web']
+tags: ['Web', 'Design', 'Tips & Tricks']
 ---
 
 Several of the websites I've created use a background image as part of the design. It turns out that making the image stay centered, maintain the same aspect ratio, scale with the browser, and always fill the entire page is a difficult task. After several infuriating hours of trial and error, I finally figured out how to make all the above occur in a modern browser using only CSS3. [Check out this JSFiddle](http://jsfiddle.net/o286bbpg/) for an example of it in action or read on for an explanation.

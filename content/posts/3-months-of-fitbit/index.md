@@ -2,7 +2,7 @@
 title: '3 Months of Fitbit'
 date: Sun, 31 Mar 2013 23:31:44 +0000
 draft: false
-tags: ['Blog', 'Fitbit', 'Fitness', 'Graphs', 'Health', 'Life', 'Quantified Self']
+tags: ['Fitness', 'Data Visualization', 'Quantified Self']
 ---
 
 I bought myself a [Fitbit One](http://www.fitbit.com/one) right before the New Year in hopes of motivating more physical activity to offset my stationary lab lifestyle. It's been just over three months since I started tracking my daily steps and most of my sleep. While I haven't started running yet (I promise I'll start eventually), it's been fascinating to see my walking activity tracked throughout the day. One of my biggest complaints about Fitbit's services is that they make you pay to access in-depth information about your activity. I think that it's absolutely ludicrous to charge $49.99 a year to see the full extent of your data. With that said, they do offer an API for third-party development with access to the raw data (steps, distance, etc.) so I used this to [automatically pull](http://quantifiedself.com/2013/02/how-to-download-fitbit-data-using-google-spreadsheets/) my daily activity into a Google Drive spreadsheet for easy access and analysis. Using this data, I generate my ["health tracking" page](http://www.csullender.com/health/) featuring several charts of my ongoing Fitbit activity. The remainder of this post presents a summary of my Fitbit activity over the past 90 days since I got the One. 

@@ -2,7 +2,7 @@
 title: 'Upgrades and Overclocks'
 date: Tue, 27 Mar 2012 22:06:03 +0000
 draft: false
-tags: ['Apple', 'Blog', 'Computer', 'Hackintosh', 'Hardware', 'Mac', 'Overclocking', 'Tech']
+tags: ['Hackintosh', 'Apple', 'Data Visualization']
 ---
 
 After about two months of using my new [Hackintosh](http://www.csullender.com/blog/2012/02/12/the-hackintosh/ "The Hackintosh") without any custom modifications, I decided I wanted to overclock my 3.3GHz [Intel Core i5-2500K](http://www.newegg.com/Product/Product.aspx?Item=N82E16819115072) processor a little bit to see if I would notice a performance increase. However, in order to do this, the horribly inadequate stock Intel CPU cooler needed to be replaced. After a brief search online, I settled on the [Cooler Master Hyper 212+](http://www.newegg.com/Product/Product.aspx?Item=N82E16835103065) as a suitable replacement for my CPU cooling needs. After an excruciating two-day wait, the part finally came in and I began the installation process of this gargantuan new cooling unit that just barely fit into my case. The new heatsink offered easily 10x more surface area for heat dissipation, which drastically increased the cooling efficiency of the running CPU. With the stock cooler, I saw the CPU idling around 45-50C. In stark contrast, the overclocked system now idles around 35C.

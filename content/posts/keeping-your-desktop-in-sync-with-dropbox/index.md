@@ -2,7 +2,7 @@
 title: 'Keeping Your Desktops in Sync with Dropbox'
 date: Mon, 14 May 2012 21:04:22 +0000
 draft: false
-tags: ['Blog', 'Cloud', 'Command Line', 'Dropbox', 'Software', 'Sync', 'Tips', 'Tricks']
+tags: ['Software', 'Tips & Tricks']
 ---
 
 Ever since I got my desktop and relegated my laptop to predominately being my work office computer, I have become heavily reliant upon the incredible [Dropbox](http://db.tt/1M1kZsG) for keeping my files synchronized across the two computers. I had already been keeping my documents backed up to the cloud for several years and amassed about 22GB of free storage space thanks to the invite bonus and a variety of extra space opportunities. I now use the service for keeping my passwords ([1Password](https://agilebits.com/onepassword)), my research library ([Papers](http://www.mekentosj.com/papers/)), and even the desktops on both my computers up-to-date.

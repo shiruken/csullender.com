@@ -2,7 +2,7 @@
 title: 'Red Bull Battlegrounds'
 date: Wed, 30 May 2012 20:32:08 +0000
 draft: false
-tags: ['ACL', 'ACL Live', 'Austin', 'Blog', 'eSports', 'Gaming', 'Red Bully', 'StarCraft', 'StarCraft 2', 'Texas', 'Video Games']
+tags: ['Life', 'Austin', 'Gaming', 'Esports']
 ---
 
 This past weekend saw the first major competitive video-gaming event take place in Austin, TX as the [Red Bull Battlegrounds](http://www.redbullusa.com/cs/Satellite/en_US/Red-Bull-LAN/001243017356310) took over the [Moody Theater](http://acl-live.com/venue) for two days of StarCraft 2 action. A 16-player invitational hosted by Day\[9\], DJwheat, Husky, and Rob Simpson, the event was a resounding success for a non-major-league ([MLG](http://www.majorleaguegaming.com/) or [IPL](http://www.ign.com/ipl)) live event. I decided to only attend the second day (Sunday) of the tournament since the first day featured a round-robin tournament in which an absolute deluge of games were played. Day 2 took the top 8 players from the previous day and seeded them into a single-elimination bracket to fight for over $40k in prize money.

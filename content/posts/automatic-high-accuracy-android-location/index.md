@@ -2,7 +2,7 @@
 title: 'Automatically Toggle ''High Accuracy'' Location Mode on Android'
 date: Sun, 26 Jan 2014 22:53:02 +0000
 draft: false
-tags: ['Android', 'Automation', 'Blog', 'Tasker', 'Tech', 'Tips', 'Tricks']
+tags: ['Android', 'Automation', 'Software', 'Tips & Tricks']
 ---
 
 [**Check out this blog post for an updated Android Location Mode toggling task**]({{< relref "automatic-android-location-mode-toggling" >}} "Automatic Android Location Mode Toggling 2.0")

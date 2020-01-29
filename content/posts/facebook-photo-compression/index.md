@@ -2,7 +2,7 @@
 title: 'Facebook Photo Compression'
 date: Sun, 11 Oct 2015 23:11:28 +0000
 draft: false
-tags: ['Blog', 'Facebook', 'Photography', 'Social Media', 'Tips', 'Web']
+tags: ['Web', 'Photography', 'Social Media']
 ---
 
 {{< load-photoswipe >}}

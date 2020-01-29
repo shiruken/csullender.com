@@ -2,7 +2,7 @@
 title: 'Prevent Bootcamp Partition from Mounting'
 date: Sat, 27 Oct 2012 04:34:51 +0000
 draft: false
-tags: ['Apple', 'Blog', 'Guide', 'Mac', 'Tips', 'Tricks']
+tags: ['Apple', 'Tips & Tricks']
 ---
 
 If you're on a Mac with Windows installed via Bootcamp then you've no doubt noticed that the Bootcamp partition mounts as another drive when using OSX. I rarely needed access to the contents of my Bootcamp installation so I thought it'd be nice to prevent the partition from mounting at all on the Mac side of things. There's a relatively easy way to achieve this using just a little bit of command line fiddling. The only thing you need is administrative rights on the computer. The first thing we need to know is the Universal Unique Identifier (UUID) of the Bootcamp partition that you want to prevent from automatically mounting. Open up the **Disk Utility** application located in the Utilities folder of your Application folder. Locate the desired partition in the list on the left as shown below. In my case, the partition is called "Windows"

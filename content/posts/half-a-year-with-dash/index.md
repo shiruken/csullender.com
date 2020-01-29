@@ -2,7 +2,7 @@
 title: 'Half a Year with Dash'
 date: Sat, 22 Nov 2014 20:48:11 +0000
 draft: false
-tags: ['Automotive', 'Blog', 'Metrics', 'Quantified Self', 'Tech']
+tags: ['Automotive', 'Data Visualization', 'Quantified Self']
 ---
 
 I've been using [Dash](https://dash.by/) in my car for almost six months now to track my driving habits and monitor my car's status. The app interfaces over Bluetooth with an OBD device to read engine codes and access metrics such as speed, fuel efficiency, and engine status. The app tracks every trip and assigns a "Driving Score" based on driving behavior to encourage "better" driving habits. Currently the only way to access the data is [via an IFTTT channel](https://ifttt.com/dash) that logs each trip to a line of a Google Spreadsheet. The developer is working on an [API (aptly named Chassis)](https://dash.by/developers) that will hopefully make access to the data even easier in the coming future. In the meantime, I just used the IFTTT spreadsheet output to assemble some stats and charts.

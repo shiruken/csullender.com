@@ -2,7 +2,7 @@
 title: 'Keeping your Papers Library Synced'
 date: Thu, 01 Nov 2012 00:32:59 +0000
 draft: false
-tags: ['Blog', 'Guide', 'Mac', 'Software', 'Tips', 'Tricks']
+tags: ['Software', 'Tips & Tricks']
 ---
 
 As a graduate student, one of the most important tools I use practically every single day is a citation and bibliography reference manager. I've gone through several ([Endnote](http://endnote.com/), [Mendeley](http://www.mendeley.com/), [Zotero](http://www.zotero.org/), etc.) over the years before finding one I truly liked: [Papers](http://www.mekentosj.com/papers/ "Visit the Papers Website"). Initially a Mac-only client, Papers seemed like a native extension of the OS X environment, akin to that of iTunes or iPhoto. With the ability to search online databases, import articles into a "library" for organization, and cite papers and assemble bibliographies, Papers does everything I needed and wanted from a reference management program. Over the course of its development, numerous features have been added including an iOS app and Windows counterpart.

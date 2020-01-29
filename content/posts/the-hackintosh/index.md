@@ -2,7 +2,7 @@
 title: 'The Hackintosh'
 date: Sun, 12 Feb 2012 22:09:01 +0000
 draft: false
-tags: ['Apple', 'Blog', 'Computers', 'Hackintosh', 'Hardware', 'Mac', 'Software', 'Tech']
+tags: ['Hackintosh', 'Apple']
 ---
 
 In the weeks leading up to my winter break from classes, I decided I was going to build a gaming computer since I was tired of playing on my laptop. While I was originally planning on just building a beastly Windows machine, I realized it was now ridiculously easy to throw together parts to make a "Hackintosh," or a computer running Mac OS X minus the Apple hardware and price. I spent several weeks researching the viability of the Hackintosh build, predominately on [TonyMacX86](http://www.tonymacx86.com/), and selecting the components for my system. I ended up settling on the following list of hardware, rocking a SSD for my operating system and a regular HD for everything else.

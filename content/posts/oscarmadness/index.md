@@ -2,7 +2,7 @@
 title: '#OscarMadness'
 date: Thu, 06 Mar 2014 22:23:37 +0000
 draft: false
-tags: ['Austin', 'Blog', 'Cooking', 'Oscar Party', 'Photography']
+tags: ['Life', 'Food', 'Photography']
 ---
 
 For the past six years, my friend Peter Voyvodic has hosted an annual Oscar party where he serves up food inspired by each of the Academy Award for Best Picture Nominees. I've had the opportunity to attend the past two years (since I've been in Austin) and it has always been a blast. Last year I had a ton of fun assisting with the Sunday food preparation so I was anxious to help again this year.

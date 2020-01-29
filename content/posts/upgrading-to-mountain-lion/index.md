@@ -2,7 +2,7 @@
 title: 'Upgrading to Mountain Lion'
 date: Tue, 31 Jul 2012 19:49:00 +0000
 draft: false
-tags: ['Apple', 'Blog', 'Computers', 'Guide', 'Hackintosh', 'Software', 'Upgrade']
+tags: ['Hackintosh', 'Apple', 'Software', 'Tips & Tricks']
 ---
 
 The release of the latest Apple computer operating system [OS X 10.8 'Mountain Lion'](http://www.apple.com/osx/) has been a [resounding success](http://www.engadget.com/2012/07/30/apple-reports-three-million-mountain-lion-downloads-in-four-days/) with over 3 million copies sold in less than four days. As with any system update, the Hackintosh community anxiously starts refreshing their favorite websites ([TonyMacx86](http://www.tonymacx86.com/home.php)) in hopes of reading tales of successful installations before attempting it themselves. After installing the $20 update onto my laptop, I finally decided to give it a whirl on [my Hackintosh.](http://www.csullender.com/blog/2012/02/12/the-hackintosh/ "The Hackintosh") I used the [Unibeast](http://www.tonymacx86.com/61-unibeast-1-5-install-os-x-mountain-lion-any-supported-intel-based-pc.html) tool from the aforementioned [TonyMacx86](http://www.tonymacx86.com/home.php) community to create a bootable flash drive with the Mountain Lion installer. A typical installation would then simply require booting off the flash drive, selecting the installation drive, and then enjoying the new OS. Unfortunately, my graphics card (ATI Radeon HD 6870) has had issues with the installation process and requires a few extra steps to get everything working. Without these additional modifications, the installer hangs at the launch screen indefinitely. This fix should work for any ATI Radeon 6XXX card but I have only tried it on the 6870.

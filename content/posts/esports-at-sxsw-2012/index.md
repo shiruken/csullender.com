@@ -2,7 +2,7 @@
 title: 'eSports at SXSW 2012'
 date: Mon, 12 Mar 2012 16:12:11 +0000
 draft: false
-tags: ['Austin', 'Blog', 'eSports', 'Gaming', 'IPL', 'Screenburn', 'StarCraft 2', 'SXSW', 'SXSW 2012', 'Video Games']
+tags: ['Life', 'Austin', 'SXSW', 'Gaming', 'Esports']
 ---
 
 I went to my first SXSW event this past Saturday (despite the absolute deluge of rain) at the Palmer Event Center for the [Screenburn Arcade](http://sxsw.com/interactive/screenburn) where the IGN Pro League was putting on a StarCraft 2 showmatch between two community-voted players. Interestingly enough, the players Millenium.Stephano and TteSports.WhiteRa ended up being the winners of the IPL StarLeagues 2 and 3, respectively, which made the match feel even more epic. The Frenchman, Ilyes "Stephano" Satouri, is arguably the best foreigner (non-Korean) player in the world and definitely one of the best Zerg players globally. Aleksey "White-Ra" Krupnyk, hails from the Ukraine, and has been a long-time community favorite for his Protoss "special tactics" and broken English phrases that are frequently absorbed into the StarCraft eSports lexicon. It was awesome seeing these people play in person after being limited to [TwitchTV](http://twitch.tv) streams and [Major League Gaming](http://www.majorleaguegaming.com/) events in the past. Nothing beats a live crowd, especially when an [Archon Toilet](http://wiki.teamliquid.net/starcraft2/Archon_toilet) results in the nearly instantaneous death of 10+ Brood Lords and a complete change in momentum.

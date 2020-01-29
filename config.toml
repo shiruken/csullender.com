@@ -14,6 +14,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
 
+[taxonomies]
+    tag = "tags"
+
 
 # Theme Parameters
 [params]
