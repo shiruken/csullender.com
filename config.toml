@@ -14,6 +14,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
 
+disqusShortname = "csullender"
+googleAnalytics = "UA-26412009-1"
+
 [taxonomies]
     tag = "tags"
 
