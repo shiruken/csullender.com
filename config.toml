@@ -29,7 +29,7 @@ enableRobotsTXT = true
     description = "Welcome to the personal website of Colin Sullender, a postdoctoral researcher at the University of Texas at Austin specializing in optical imaging system design and digital image processing for biomedical applications."
     keywords = "personal,blog,biomedical,engineer,optics,researcher"
 
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
 
