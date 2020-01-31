@@ -16,6 +16,7 @@ pygmentsstyle = "solarized-dark"
 
 disqusShortname = "csullender"
 googleAnalytics = "UA-26412009-1"
+enableRobotsTXT = true
 
 [taxonomies]
     tag = "tags"
