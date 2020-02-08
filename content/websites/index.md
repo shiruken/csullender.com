@@ -34,6 +34,8 @@ I helped develop and currently maintain the website for my academic research lab
 
 I created and maintained the 'Science GIFs' collection on Google+. It was one of the largest and most active science-focused collections on the social network and [garnered over 320,000 followers]({{< relref "three-years-of-science-gifs-on-google" >}} "View 'Three Years of 'Science GIFs' on Google+' blog entry") prior to the shuttering of the Google+ platform. The collection featured weekly posts explaining phenomena depicted in short animated GIFs gathered from various sources across the internet. The success of this collection resulted in an invitation to the Google+ Create program, which highlighted quality content on the platform.
 
+An [archive](https://sciencegifs.csullender.com/) of the Science GIFs collection was created using Python to [parse](https://github.com/shiruken/sciencegifs/blob/master/parseGooglePlus.py) Google Takeout JSON into [Jekyll](https://jekyllrb.com/)-formatted Markdown. The repository containing nearly 4GB of GIFs is [fully hosted on GitHub Pages](https://github.com/shiruken/sciencegifs) and heavily cached using [Cloudflare](https://www.cloudflare.com/).
+
 
 # Biomedical Optics Graduate Organization (2012 - 2015)
 
