@@ -39,6 +39,8 @@ An [archive](https://sciencegifs.csullender.com/) of the Science GIFs collection
 
 # Biomedical Optics Graduate Organization (2012 - 2015)
 
+~~studentorgs.utexas.edu/bogo~~
+
 I designed, developed, and maintained the website for the Biomedical Optics Graduate Organization (BOGO) at the University of Texas at Austin. The website was a combination of PHP and HTML and provided basic information about the student organization such as new, upcoming events, and academic resources. The website was discontinued alongside the university's hosting services in 2015.
 
 ![Screenshot of BOGO website](BOGO.jpg)
