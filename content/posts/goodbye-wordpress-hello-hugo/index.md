@@ -25,9 +25,9 @@ I generally followed the [Quick Start guide](https://gohugo.io/getting-started/q
 
 # Migrating from WordPress
 
-In order to transition my WordPress content to Hugo, I utilized the [blog2md](https://github.com/palaniraja/blog2md) utility. This Node.js program takes the .xml file exported by WordPress' backup tool and converts each page and post into individual Markdown files, maintaining the formatting, timestamps, and tags reasonably well. Unfortunately I had to go through each entry and manually correct line breaks and update image urls to be compatible with Hugo's [directory structure](https://gohugo.io/getting-started/directory-structure/).
+In order to transition my WordPress content to Hugo, I utilized the [blog2md](https://github.com/palaniraja/blog2md) utility. This [Node.js](https://nodejs.org/) program takes the .xml file exported by WordPress' backup tool and converts each page and post into individual Markdown files, maintaining the formatting, timestamps, and tags reasonably well. Unfortunately I had to go through each entry and manually correct line breaks and update image urls to be compatible with Hugo's [directory structure](https://gohugo.io/getting-started/directory-structure/).
 
-Instead of dumping all of my images into the `/static/image` directory, I opted to create individual subdirectories for each page ([Page Bundles](https://gohugo.io/content-management/page-bundles/)) to keep related content better organized.
+Instead of dumping all of my images into the `/static/image` directory, I opted to create individual subdirectories for each page ([Leaf Bundles](https://gohugo.io/content-management/page-bundles/#leaf-bundles)) to keep related content better organized.
 
 ```
 content
@@ -38,14 +38,39 @@ content
     ├── image_2.png
 ```
 
-While this requires moving the migrated Markdown files from `hello-world.md` to `hello-world/index.md`, it permits easier linking to photos/files since they are now in the same directory.
+While this requires moving the migrated Markdown files from `posts/hello-world.md` to `posts/hello-world/index.md`, it permits easier linking to photos/files since they are now in the same directory. This also avoids an asset management nightmare where all the images would typically be located elsewhere in the `/static/` directory.
 
 ```
 ![Image 1](image_1.png)
 ```
 
-
 ## Image Galleries
+
+Several of my blog entries utilized WordPress' media features to create organized image galleries for displaying content. While Hugo and the Coder theme lack native image grid layouts, there are numerous custom [shortcodes](https://gohugo.io/content-management/shortcodes/) that offer such features. One such implementation is [Hugo Easy Gallery](https://github.com/liwenyip/hugo-easy-gallery), which can easily create responsive, [Photoswipe](https://photoswipe.com/)-powered image galleries with a single shortcode.
+
+In order to recreate the layouts used in my WordPress content, I had to modify the [`gallery.html`](https://github.com/shiruken/csullender.com/blob/master/layouts/shortcodes/gallery.html) shortcode and the [`hugo-easy-gallery.css`](https://github.com/shiruken/csullender.com/blob/master/static/css/hugo-easy-gallery.css) stylesheet to explicitly control the number of images displayed per row in a gallery. Specifically, I wanted to be able to display either two or five images per row with the option to display full-size images without cropping. I also had to slightly modify the handling of image paths to accommodate for leaf bundles.
+
+Here's an example of a gallery with two images per row:
+
+```
+{{</* gallery dir="demo-2x1/" class="hugo-two-wide" /*/>}}
+```
+
+{{< gallery dir="demo-2x1/" class="hugo-two-wide" />}} {{< load-photoswipe >}}
+
+And a gallery with five images per row:
+
+```
+{{</* gallery dir="demo-5x1/" class="hugo-five" /*/>}}
+```
+
+{{< gallery dir="demo-5x1/" class="hugo-five" />}}
+
+You can see examples of galleries in action on the following posts:
+
+* [Facebook Photo Compression]({{< relref "facebook-photo-compression" >}})
+* [Top Music of 2013]({{< relref "top-music-of-2013" >}})
+
 
 ## Transfer Disqus Comments
 
