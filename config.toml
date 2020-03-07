@@ -39,7 +39,7 @@ enableRobotsTXT = true
     rtl = false
     math = false
 
-    commit = "https://github.com/shiruken/csullender.com-hugo/tree/"
+    commit = "https://github.com/shiruken/csullender.com-hugo/commit/"
 
 
 # Menu Links
