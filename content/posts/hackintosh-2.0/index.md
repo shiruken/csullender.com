@@ -51,4 +51,4 @@ Unfortunately, NVIDIA does not have a webpage listing all of the iterations of t
 
 ![About This Mac](AboutThisMac.jpg)
 
-[**Check out the benchmarks for this system!**]({{< relref "hackintosh-2.0-benchmark" >}} "Hackintosh 2.0 Benchmark")
+[**Check out the benchmarks for this system!**]({{< relref "hackintosh-2.0-benchmark.md" >}} "Hackintosh 2.0 Benchmark")
