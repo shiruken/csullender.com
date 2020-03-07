@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2020-01-29T16:09:37-06:00
+draft = false
+date = 2020-03-07T12:10:00-06:00
 title = "Goodbye WordPress. Hello Hugo."
 tags = ['Web', 'Design', 'Software', 'Tips & Tricks']
 +++
@@ -48,9 +48,9 @@ While this requires moving the migrated Markdown files from `posts/hello-world.m
 
 Several of my blog entries utilized WordPress' media features to create organized image galleries for displaying content. While Hugo and the Coder theme lack native image grid layouts, there are numerous custom [shortcodes](https://gohugo.io/content-management/shortcodes/) that offer such features. One such implementation is [Hugo Easy Gallery](https://github.com/liwenyip/hugo-easy-gallery), which can easily create responsive, [Photoswipe](https://photoswipe.com/)-powered image galleries with a single shortcode.
 
-In order to recreate the layouts used in my WordPress content, I had to modify the [`gallery.html`](https://github.com/shiruken/csullender.com/blob/master/layouts/shortcodes/gallery.html) shortcode and the [`hugo-easy-gallery.css`](https://github.com/shiruken/csullender.com/blob/master/static/css/hugo-easy-gallery.css) stylesheet to explicitly control the number of images displayed per row in a gallery. Specifically, I wanted to be able to display either two or five images per row with the option to display full-size images without cropping. I also had to slightly modify the handling of image paths to accommodate for leaf bundles.
+In order to recreate the layouts used in my WordPress content, I had to modify the [`gallery.html`](https://github.com/shiruken/csullender.com/blob/master/layouts/shortcodes/gallery.html) shortcode and the [`hugo-easy-gallery.css`](https://github.com/shiruken/csullender.com/blob/master/static/css/hugo-easy-gallery.css) stylesheet to explicitly control the number of images displayed per row in a gallery. Specifically, I wanted to be able to display either two or five images per row with the option to display full-size images without cropping. I also had to [slightly modify](https://github.com/shiruken/csullender.com/commit/e20104375c700534d29516e814e705504e4d6b3b) the handling of image paths to accommodate for leaf bundles.
 
-Here's an example of a gallery with two images per row:
+Here's an example of a gallery with two wide images per row (4:3 aspect ratio):
 
 ```
 {{</* gallery dir="demo-2x1/" class="hugo-two-wide" /*/>}}
@@ -58,7 +58,7 @@ Here's an example of a gallery with two images per row:
 
 {{< gallery dir="demo-2x1/" class="hugo-two-wide" />}} {{< load-photoswipe >}}
 
-And a gallery with five images per row:
+And a gallery with five square images per row (1:1 aspect ratio):
 
 ```
 {{</* gallery dir="demo-5x1/" class="hugo-five" /*/>}}
@@ -74,6 +74,21 @@ You can see examples of galleries in action on the following posts:
 
 ## Transfer Disqus Comments
 
-# Automating Deployment with Travis-CI
+I was never a fan of WordPress' commenting system, so I've used [Disqus](https://disqus.com/) to host and moderate comments on my website for years now. This made the transition to Hugo even easier since it natively ships with an [internal Disqus template](https://gohugo.io/content-management/comments/#add-disqus) that is configured simply by adding your `disqusShortname` to the configuration file. However, because I decided to change the permalink structure from `/blog/YYYY/MM/DD/title` to `/posts/title`, I had to use the [URL Mapping tool](https://disqus.com/admin/discussions/migrate/) to link existing comments to their respective pages on the new website.
 
-# Integrating Dynamic Content
+![Disqus Migration Tools](Screenshot_MigrationTools.png)
+
+Functionally, this is performed by exporting a CSV file listing each URL that has existing Disqus comments and simply adding the new URL as the second element in each row. Uploading the modified file back to Disqus results in the permanent remapping of the comments to the new URL schema.
+
+![URL Remapping](Screenshot_URLMapping.png)
+
+
+# Automating Deployment with Travis CI
+
+Obviously, one of the major advantages of WordPress is that hitting the "publish" button results in your new content automatically appearing without requiring any intermediate steps. Unlike Jekyll, which is [heavily integrated with GitHub Pages](https://jekyllrb.com/docs/github-pages/) for streamlined use, Hugo requires a [little more effort](https://gohugo.io/hosting-and-deployment/) to host and deploy online. By far the easiest option is to [use Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/) to host your Hugo site with their CDN and continuous deployment through your version control system of choice. However, if you already have a server or need to run other dynamic pages alongside your static Hugo content, then it's not an optimal solution.
+
+After deciding that I wanted something a little more automatic than manual deployment with [an Rsync script](https://gohugo.io/hosting-and-deployment/deployment-with-rsync/), I ran across [this excellent guide](https://blog.martignoni.net/2019/03/deploy-your-hugo-site/) on how to deploy Hugo through SSH with Travis. _(If that sounds like I just made up a bunch of words, that's how I felt the first time learning about it.)_ For the uninitiated, [Travis CI](https://travis-ci.org/) is a "continuous integration service" used for automatically building and testing projects hosted on GitHub. Each time a new commit is made to the repository, Travis will build the Hugo site and deploy the resulting files to my hosting provider using [rsync](https://linux.die.net/man/1/rsync). My latest Travis configuration file can be found here: [`.travis.yml`](https://github.com/shiruken/csullender.com/blob/master/.travis.yml).
+
+![Travis Build Screenshot](Screenshot_Travis.png)
+
+The end result is not that dissimilar from the WordPress experience: When I "publish" a change to GitHub, my website is automatically updated without any further input (except for the occasional debugging 😅). With the exception of a few dynamic pages (i.e. PHP), my website is now entirely static and eliminates the headache of dealing with WordPress or backend issues on my cheap hosting service.
