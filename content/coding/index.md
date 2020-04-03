@@ -7,6 +7,15 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https://github.com/shiruken/). Check out my [websites](/websites).
 
 
+# COVID-19 Case Map
+
+[covid.csullender.com](https://covid.csullender.com/)
+
+Zoomable choropleth map of confirmed COVID-19 cases in the United States built with [D3.js](https://d3js.org/). Data sourced from the [COVID Tracking Project](https://covidtracking.com/) and [USAFacts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) and regularly updated using Python + [pandas](https://pandas.pydata.org/). The website is deployed and hosted using [GitHub Pages](https://pages.github.com/).
+
+{{< video src="COVID-19.mp4" preload="metadata" >}}
+
+
 # Reddit r/science Dashboard
 
 Monitors the [r/science community](https://www.reddit.com/r/science/) for all new submissions and tracks performance over the following 24 hours. Uses [PRAW](https://praw.readthedocs.io/) to grab various metrics and stores the results in a MySQL database. Charts are generated with [Google Charts](https://developers.google.com/chart) via server-side JSON exports and displayed on a website using Javascript + HTML.
