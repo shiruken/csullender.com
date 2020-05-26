@@ -18,10 +18,11 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Development of custom software (Qt C++) for real-time LSCI acquisition, processing, and visualization.
 * Development of numerical Monte Carlo model of dynamic light scattering for computational speckle contrast optical tomography in the brain.
 
-**Dissertation:** _Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_ (August 2018)
+**Dissertation:** [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_ (August 2018)](https://doi.org/10.26153/tsw/7493)
 
 **Papers**
 
+* [Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes (_Science Advances_, 2020)](https://doi.org/10.1126/sciadv.aba1933)
 * [Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex (_Journal of Neuroscience_, 2019)](https://doi.org/10.1523/JNEUROSCI.1141-19.2019)
 * [Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments (_Scientific Reports_, 2019)](https://doi.org/10.1038/s41598-019-39092-7)
 * [Imaging of cortical oxygen tension and blood flow following targeted photothrombotic stroke (_Neurophotonics_, 2018)](https://doi.org/10.1117/1.NPh.5.3.035003)
