@@ -39,6 +39,8 @@ enableRobotsTXT = true
     rtl = false
     math = false
 
+    custom_css = ["css/custom.css"]
+
     commit = "https://github.com/shiruken/csullender.com-hugo/commit/"
 
 

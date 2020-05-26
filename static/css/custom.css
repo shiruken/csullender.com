@@ -1,0 +1,5 @@
+.content article p {
+    text-align: inherit;
+    text-justify: inherit;
+    hyphens: inherit;
+}
