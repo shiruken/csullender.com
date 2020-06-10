@@ -22,6 +22,8 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
+* [Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. (_bioRxiv_ Preprint)](https://doi.org/10.1101/2020.06.08.140582)
+* Visualizing anesthesia-induced vasodilation of cerebral vasculature using multi-exposure speckle imaging (_Under Review_)
 * [Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes (_Science Advances_, 2020)](https://doi.org/10.1126/sciadv.aba1933)
 * [Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex (_Journal of Neuroscience_, 2019)](https://doi.org/10.1523/JNEUROSCI.1141-19.2019)
 * [Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments (_Scientific Reports_, 2019)](https://doi.org/10.1038/s41598-019-39092-7)
