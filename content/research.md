@@ -33,8 +33,9 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * [Nanoelectronics enabled chronic multimodal neural platform in a mouse ischemic model (_Journal of Neuroscience Methods_, 2018)](https://doi.org/10.1016/j.jneumeth.2017.12.001)
 * [In vivo multiphoton imaging of a diverse array of fluorophores to investigate deep neurovascular structure (_Biomedical Optics Express_, 2017)](https://doi.org/10.1364/BOE.8.003470)
 
-**Posters**
+**Posters / Presentations**
 
+* Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts (Neural Imaging and Sensing 2020)
 * Computational speckle contrast optical tomography (SPIE BiOS 2019)
 * A fast three-dimensional dynamic light scattering computational model for imaging through turbid media (Advances in Optics for Biotechnology, Medicine and Surgery XVI 2019)
 * Targeted photothrombotic stroke: a method for producing upper extremity impairments in mice (Neuroscience 2016)
