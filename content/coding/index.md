@@ -7,9 +7,18 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https://github.com/shiruken/). Check out my [websites](/websites).
 
 
+# Texas COVID-19 Hospital Resource Usage
+
+[covid-texas.csullender.com](https://covid-texas.csullender.com/) ([GitHub](https://github.com/shiruken/covid-texas))
+
+Visualization of [Texas Department of State Health Services](https://www.dshs.state.tx.us/) data for regional hospital resource availability across the state. Highlights the impact COVID-19 hospitalizations are having on hospital bed and ICU bed usage. The raw data is extracted with Python using [pandas](https://pandas.pydata.org/). The website is built with [D3.js](https://d3js.org/) and deployed and hosted using [GitHub Pages](https://pages.github.com/).
+
+{{< video src="TexasCOVID-19.mp4" preload="metadata" >}}
+
+
 # COVID-19 Case Map
 
-[covid.csullender.com](https://covid.csullender.com/)
+[covid.csullender.com](https://covid.csullender.com/) ([GitHub](https://github.com/shiruken/covid))
 
 Zoomable choropleth map of confirmed COVID-19 cases in the United States built with [D3.js](https://d3js.org/). Data sourced from the [COVID Tracking Project](https://covidtracking.com/) and [USAFacts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) and regularly updated using Python + [pandas](https://pandas.pydata.org/). The website is deployed and hosted using [GitHub Pages](https://pages.github.com/).
 
