@@ -104,7 +104,7 @@ enableRobotsTXT = true
     target = "_blank"
 [[params.social]]
     name = "Instagram"
-    icon = "fab fa-instagram-square"
+    icon = "fab fa-instagram"
     weight = 6
     url = "https://www.instagram.com/shiruken/"
     target = "_blank"
