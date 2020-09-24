@@ -22,7 +22,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
-* [Effect of vascular structure on laser speckle contrast imaging (_Biomedical Optics Express_, 2020)]()
+* [Effect of vascular structure on laser speckle contrast imaging (_Biomedical Optics Express_, 2020)](https://doi.org/10.1364/BOE.401235)
 * Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography (_Under Review_)
 * [Visualizing anesthesia-induced vasodilation of cerebral vasculature using multi-exposure speckle imaging (_Under Review_, _bioRxiv Preprint_](https://doi.org/10.1101/2020.06.26.174227))
 * [Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. (_bioRxiv_ Preprint](https://doi.org/10.1101/2020.06.08.140582))
