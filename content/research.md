@@ -22,10 +22,10 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
+* [Effect of vascular structure on laser speckle contrast imaging (_Biomedical Optics Express_, 2020)]()
 * Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography (_Under Review_)
-* Visualizing anesthesia-induced vasodilation of cerebral vasculature using multi-exposure speckle imaging (_Under Review_, [_bioRxiv Preprint_](https://doi.org/10.1101/2020.06.26.174227))
-* Establishing the effect of vascular structure on laser speckle contrast imaging (_Under Review_, [_bioRxiv Preprint_](https://doi.org/10.1101/2020.06.25.172114))
-* Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. ([_bioRxiv_ Preprint](https://doi.org/10.1101/2020.06.08.140582))
+* [Visualizing anesthesia-induced vasodilation of cerebral vasculature using multi-exposure speckle imaging (_Under Review_, _bioRxiv Preprint_](https://doi.org/10.1101/2020.06.26.174227))
+* [Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. (_bioRxiv_ Preprint](https://doi.org/10.1101/2020.06.08.140582))
 * [Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes (_Science Advances_, 2020)](https://doi.org/10.1126/sciadv.aba1933)
 * [Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex (_Journal of Neuroscience_, 2019)](https://doi.org/10.1523/JNEUROSCI.1141-19.2019)
 * [Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments (_Scientific Reports_, 2019)](https://doi.org/10.1038/s41598-019-39092-7)
