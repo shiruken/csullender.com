@@ -21,4 +21,4 @@ This cover image is based on the fantastic [Jamaican Bobsled + Dogecoin illustra
 
 ![Dogecoin Bobsled Facebook Cover Image Preview](DogecoinBobsled_Preview.jpg)
 
-Tips: [DHEMz9TM6TpavqKP53trfVjxyF4fqPcC5k](dogecoin:DHEMz9TM6TpavqKP53trfVjxyF4fqPcC5k)
+Tips: [DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA](dogecoin:DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA)

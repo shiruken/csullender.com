@@ -13,4 +13,4 @@ For those that care, the block reward is reported as the average rather than the
 
 Since the next halving is over two months away, just bookmark the website so you can refer to it when everyone starts caring again. ~~I might even get around to adding a cheesy Javascript countdown to the page as well.~~
 
-Tips: [DHEMz9TM6TpavqKP53trfVjxyF4fqPcC5k](dogecoin:DHEMz9TM6TpavqKP53trfVjxyF4fqPcC5k)
+Tips: [DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA](dogecoin:DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA)
