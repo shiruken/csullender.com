@@ -33,8 +33,8 @@ enableRobotsTXT = true
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
 
-    colorScheme = "auto"
-    hideColorSchemeToggle = false
+    colorScheme = "light"
+    hideColorSchemeToggle = true
     hidecredits = false
     hidecopyright = false
     rtl = false
