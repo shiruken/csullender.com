@@ -39,7 +39,10 @@ enableRobotsTXT = true
     rtl = false
     math = false
 
-    custom_css = ["css/custom.css"]
+    customCSS = [
+        "css/custom.css",
+        "css/academicons.min.css"
+    ]
 
     commit = "https://github.com/shiruken/csullender.com-hugo/commit/"
 
@@ -74,61 +77,31 @@ enableRobotsTXT = true
 # Social Links
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    icon = "fa fa-linkedin-square"
     weight = 1
     url = "https://www.linkedin.com/in/csullender/"
     target = "_blank"
 [[params.social]]
-    name = "ResearchGate"
-    icon = "fab fa-researchgate"
+    name = "GitHub"
+    icon = "fa fa-github-square"
     weight = 2
+    url = "https://github.com/shiruken/"
+    target = "_blank"
+[[params.social]]
+    name = "ResearchGate"
+    icon = "ai ai-researchgate-square"
+    weight = 3
     url = "https://www.researchgate.net/profile/Colin_Sullender"
     target = "_blank"
 [[params.social]]
     name = "ORCID"
-    icon = "fab fa-orcid"
-    weight = 3
+    icon = "ai ai-orcid-square"
+    weight = 4
     url = "https://orcid.org/0000-0003-4329-7708"
     target = "_blank"
 [[params.social]]
-    name = "GitHub"
-    icon = "fab fa-github-square"
-    weight = 4
-    url = "https://github.com/shiruken/"
-    target = "_blank"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter-square"
+    name = "Google Scholar"
+    icon = "ai ai-google-scholar-square"
     weight = 5
-    url = "https://twitter.com/shiruken/"
-    target = "_blank"
-[[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram"
-    weight = 6
-    url = "https://www.instagram.com/shiruken/"
-    target = "_blank"
-[[params.social]]
-    name = "Reddit"
-    icon = "fab fa-reddit-square"
-    weight = 7
-    url = "https://www.reddit.com/user/shiruken"
-    target = "_blank"
-[[params.social]]
-    name = "LastFM"
-    icon = "fab fa-lastfm-square"
-    weight = 8
-    url = "https://www.last.fm/user/shiruken"
-    target = "_blank"
-[[params.social]]
-    name = "Goodreads"
-    icon = "fab fa-goodreads"
-    weight = 9
-    url = "https://www.goodreads.com/user/show/6443902-colin"
-    target = "_blank"
-[[params.social]]
-    name = "Pinterest"
-    icon = "fab fa-pinterest-square"
-    weight = 10
-    url = "https://www.pinterest.com/shiruken/"
+    url = "https://scholar.google.com/citations?user=29wBsHgAAAAJ"
     target = "_blank"
