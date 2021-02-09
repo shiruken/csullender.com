@@ -29,4 +29,4 @@ jobs:
       - name: Deploy
         env:
           DEST: ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}:${{secrets.DEPLOY_DIRECTORY}}
-        run: rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' -r --quiet public/* $DEST
+        run: rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' -r --quiet --delete-after public/* $DEST
