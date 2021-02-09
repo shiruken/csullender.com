@@ -22,7 +22,7 @@ jobs:
         env:
           DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
         run: |
-          'echo "$DEPLOY_KEY" > deploy_key'
+          echo "$DEPLOY_KEY" > deploy_key
           chmod 600 ./deploy_key
       - name: Test SSH
         run: ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}
