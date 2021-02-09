@@ -19,6 +19,7 @@ jobs:
       - name: Build
         run: hugo --minify
       - name: Deploy
+        if: ${{ github.ref == 'refs/heads/master' }} # Only deploy if on master branch
         env:
           DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
           DEST: ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}:${{secrets.DEPLOY_DIRECTORY}}
