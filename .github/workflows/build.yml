@@ -18,7 +18,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo
       - name: Deploy
         if: github.ref == 'refs/heads/master' # Only deploy if on master branch
         env:
