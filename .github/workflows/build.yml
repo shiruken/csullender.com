@@ -18,3 +18,10 @@ jobs:
           extended: true
       - name: Build
         run: hugo --minify
+      - name: Setup SSH
+        run: |
+          echo "${{secrets.DEPLOY_KEY}}" > deploy_key
+          chmod 600 ./deploy_key
+      - name: Test SSH
+        run: ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}
+        
