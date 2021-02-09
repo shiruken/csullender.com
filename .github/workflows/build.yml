@@ -1,9 +1,10 @@
-name: csullender.com
+name: Build Site
 on:
   workflow_dispatch:
 
 jobs:
   build:
+    name: Build Hugo Site
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
