@@ -25,4 +25,4 @@ jobs:
         run: |
           echo "$DEPLOY_KEY" > deploy_key
           chmod 600 ./deploy_key
-          rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' -r --quiet --delete-after public/* $DEST
+          rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no -o LogLevel=ERROR' -r --quiet --delete-after public/* $DEST
