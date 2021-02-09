@@ -16,18 +16,18 @@ The official Dogecoin blockchain, [Dogechain](http://dogechain.info/chain/Dogeco
 
 Once you've navigated to the directory, delete all files EXCEPT for `wallet.dat` and `dogecoin.conf` (if they exist). If you are loading an existing wallet, then copy your `wallet.dat` file into the directory now. Be sure to always keep a backup of your wallet file in case of hard drive failure or data corruption. If you are running the wallet for the first time, you'll need to create the directory, which obviously will be empty.
 
-Go to the [Dogechain download page](http://dogechain.info/bootstrap.dat) and download the `bootstrap.dat` file from one of the mirrors. The file is over 900MB, so be prepared to wait a little while. _Note: The current file is a little old but will help accelerate the blockchain syncing process nonetheless. The Dogechain website is working on a better distribution system for automatically updated bootstrap files._
+~~Go to the [Dogechain download page](http://dogechain.info/bootstrap.dat) and download the `bootstrap.dat` file from one of the mirrors. The file is over 900MB, so be prepared to wait a little while. _Note: The current file is a little old but will help accelerate the blockchain syncing process nonetheless. The Dogechain website is working on a better distribution system for automatically updated bootstrap files._~~
 
 ~~**Update:** Someone has compiled a more up-to-date version of the bootstrap file and [made it available for download via Mediafire.](http://www.mediafire.com/download/oxs9gd10bcnkmwp/bootstrap.zip) I have not verified the integrity of the file, so be careful using it.~~ 
 
-**Update:** [A nightly bootstrap file is now being automatically generated on this website](https://bootstrap.chain.so/). Check it out to get the most up-to-date version.
+~~**Update:** [A nightly bootstrap file is now being automatically generated on this website](https://bootstrap.chain.so/). Check it out to get the most up-to-date version.~~
 
-![DogecoinFolder](DogecoinFolder.jpg)
+**Update (2021-02-09):** The above sources are all either now unavailable or years out-of-date. Currently the best option to is to download the uncompressed blockchain via [this torrent](https://dogecoin.gg/dogecoin-bootstrap-2021-01-29.torrent) that was generated on 2021-01-29 (Warning: It's 45 GB). Instead of a single `bootstrap.dat` file, you'll find two folders containing the entire blockchain (`blocks/`) and its most recent state (`chainstate/`) at the time of torrent creation.
 
-Once the `bootstrap.dat` file is downloaded, move it into your Dogecoin data directory (see above) and start the dogecoin-qt desktop client. The wallet should automatically recognize that the `bootstrap.dat` file is present in the data directory and begin the local importing of blocks. Once it has imported all the blocks from the `bootstrap.dat` file, then it will connect to the network and download the remaining blocks. This will still take a significant amount of time, so it's probably best to let it run overnight.
+Once you have all the files downloaded, move both folders into your Dogecoin data directory (see above) and start the desktop client. The wallet should automatically recognize the downloaded blocks and connect to the network to download the remaining ones. This could still take a significant amount of time, so it's probably best to let it run overnight.
 
 ![Dogecoin Blockchain Synchronization](SyncProgress.jpg)
 
-Once the desktop wallet is synchronized with the blockchain, you can remove the `bootstrap.dat.old` (renamed) file to recover drive space. If all goes well, then this should significantly speed up the initialization of your Dogecoin wallet and set you well on your way to the moon!
+Once the desktop wallet is synchronized with the blockchain, you can remove the `bootstrap.dat.old` file (if one exists) to recover drive space. If all goes well, then this should significantly speed up the initialization of your Dogecoin wallet and set you well on your way to the moon!
 
 Tips: [DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA](dogecoin:DMJD5xUxr3Vyft3s6JhhrPNrd15mrhMuLA)
