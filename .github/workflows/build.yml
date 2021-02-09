@@ -18,15 +18,11 @@ jobs:
           extended: true
       - name: Build
         run: hugo --minify
-      - name: Setup SSH
+      - name: Deploy
         env:
           DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
+          DEST: ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}:${{secrets.DEPLOY_DIRECTORY}}
         run: |
           echo "$DEPLOY_KEY" > deploy_key
           chmod 600 ./deploy_key
-      - name: Test SSH
-        run: ssh -i ./deploy_key -o StrictHostKeyChecking=no ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}
-      - name: Deploy
-        env:
-          DEST: ${{secrets.DEPLOY_USER}}@${{secrets.DEPLOY_HOST}}:${{secrets.DEPLOY_DIRECTORY}}
-        run: rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' -r --quiet --delete-after public/* $DEST
+          rsync -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' -r --quiet --delete-after public/* $DEST
