@@ -45,7 +45,7 @@ enableRobotsTXT = true
         "css/academicons.min.css"
     ]
 
-    commit = "https://github.com/shiruken/csullender.com-hugo/commit/"
+    commit = "https://github.com/shiruken/csullender.com/commit/"
 
 
 # Menu Links
