@@ -1,23 +1,27 @@
-<footer class="footer">
-  <section class="container">
-    {{ with .Site.Params.footercontent | safeHTML }}
-      <p>{{.}}</p>
-    {{ end }}
-    {{ if not .Site.Params.hideCopyright }}
-      {{ with .Site.Params.since }}
-        © {{ if lt . now.Year }}{{ . }} - {{ end }}{{ now.Year }}
-      {{ else }}
-        © {{ now.Year }}
+{{ if not .Site.Params.hideFooter | default false }}
+  <footer class="footer">
+    <section class="container">
+      {{ with .Site.Params.footerContent | safeHTML }}
+        <p>{{ . }}</p>
       {{ end }}
-      {{ if .Site.Params.Author }} {{ .Site.Params.Author }} {{ end }}
-    {{ end }}
-    {{ if not .Site.Params.hideCredits }}
-      {{ if not .Site.Params.hideCopyright }} · {{ end }}
-      {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a>
-    {{ end }}
-    {{ if and (.Site.Params.commit) (.GitInfo) }}
-      {{ if or (not .Site.Params.hideCredits) (not .Site.Params.hideCopyright) }} · {{ end }}
-      [<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
-    {{ end }}
-  </section>
-</footer>
+      {{ if not .Site.Params.hideCopyright }}
+        ©
+        {{ if (and (.Site.Params.since) (lt .Site.Params.since now.Year)) }}
+          {{ .Site.Params.since }} -
+        {{ end }}
+        {{ now.Year }}
+        {{ with .Site.Params.author }} {{ . }} {{ end }}
+      {{ end }}
+      {{ if not .Site.Params.hideCredits }}
+        {{ if not .Site.Params.hideCopyright }} · {{ end }}
+        {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a>
+      {{ end }}
+      {{ if .Site.Params.commit }}
+        {{ if .GitInfo }}
+          {{ if or (not .Site.Params.hideCredits) (not .Site.Params.hideCopyright) }} · {{ end }}
+          [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>]
+        {{ end }}
+      {{ end }}
+    </section>
+  </footer>
+{{ end }}
