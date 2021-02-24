@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="/css/artist-grid.css" />
+<div id="artist-grid">
+{{ $data := "data/artists.csv" }}
+{{ $sep := "," }}
+{{ range $i, $r := getCSV $sep $data }}
+    {{ $artist := index $r 0 }}
+    {{ $artist_encoded := replace $artist " " "+"}}
+    {{ $filename := index $r 1 }}
+    <div class="artist-grid-entry">
+        <a href="https://www.last.fm/music/{{ $artist_encoded }}" title="View '{{ $artist }}' on LastFM" target="_blank">
+            <img src="{{ $filename }}" alt="{{ $artist }}" />
+            <span>{{ $artist }}</span>
+        </a>
+    </div>
+{{ end }}
+</div>
