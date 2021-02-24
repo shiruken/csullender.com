@@ -9,6 +9,15 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https://github.com/shiruken/). Check out my [websites](/websites).
 
 
+# Texas COVID-19 Vaccine Tracker
+
+[covid-texas.csullender.com/vaccine](https://covid-texas.csullender.com/vaccine/) ([GitHub](https://github.com/shiruken/covid-texas))
+
+Visualization of county-level Texas COVID-19 vaccination data. Tracks the number of doses that have been allocated/shipped to providers and administered across the state. Data is scraped daily from the [Texas DSHS dashboard](https://tabexternal.dshs.texas.gov/#/site/THD/views/COVID%2d19VaccineinTexasDashboard/Summary) using Python with [pandas](https://pandas.pydata.org/) and accumulated into a time series. The website is built with [D3.js](https://d3js.org/) and deployed and hosted using [GitHub Pages](https://pages.github.com/).
+
+{{< video src="TexasCOVID-19Vaccine.mp4" preload="metadata" >}}
+
+
 # Texas COVID-19 Hospital Resource Usage
 
 [covid-texas.csullender.com](https://covid-texas.csullender.com/) ([GitHub](https://github.com/shiruken/covid-texas))
@@ -95,11 +104,11 @@ Uses the [Trakt](https://trakt.tv/) and [TMDb](https://www.themoviedb.org/) APIs
 
 # Alabama Amendments Tweetbot
 
-[@BamaAmendments](https://twitter.com/bamaamendments)
+[~~@BamaAmendments~~](https://twitter.com/bamaamendments) (_Account suspended November 2020_)
 
 Uses the Twitter API and Python to post a daily tweet for each of the over 900 amendments to the 1901 Alabama Constitution.
 
-[![Screenshot of @BamaAmendments Twitter account](BamaAmendments.png)](https://twitter.com/bamaamendments "View the @BamaAmendments Twitter account")
+![Screenshot of @BamaAmendments Twitter account](BamaAmendments.png)
 
 
 # Twitter Analytics Dashboard
