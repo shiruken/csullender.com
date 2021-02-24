@@ -1,7 +1,8 @@
 ---
 title: 'Research'
-description: "A summary of my research experiences"
 date: Sun, 05 Feb 2012 00:12:26 +0000
+description: "A summary of my research experiences"
+keywords: [research, academic, science, texas, washington, uab, graduate, school, undergraduate, optics]
 draft: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 'Websites'
-description: "A collection of websites that I have administrated, moderated, or worked on."
 date: Sat, 21 Apr 2018 05:25:34 +0000
+description: "A collection of websites that I have administrated, moderated, or worked on."
+keywords: [website, reddit, coding, programming, github, design]
 draft: false
 ---
 

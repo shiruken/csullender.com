@@ -1,7 +1,8 @@
 ---
 title: "About"
-description: "My name is Colin Sullender and I am a postdoctoral researcher at the University of Texas in Austin."
 date: 2020-01-17T20:33:46-06:00
+description: "My name is Colin Sullender and I am a postdoctoral researcher at the University of Texas in Austin."
+keywords: [about me, colin sullender, sullender, csullender, researcher, engineer]
 draft: false
 ---
 

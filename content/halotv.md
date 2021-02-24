@@ -1,6 +1,7 @@
 ---
 title: 'HaloTV Archive'
 date: Thu, 11 Apr 2013 23:21:09 +0000
+keywords: [halo, halotv, videos, montage, machinima]
 draft: false
 ---
 
@@ -11,4 +12,3 @@ I've uploaded the entire ~10GB of videos to [Google Drive](https://drive.google.
 Happy reminiscing Reclaimer!
 
 {{< googledrivefolder "1a3hFMZLoUGGxP41E3yzpmTPZQCcoboDR" >}}
-

@@ -1,7 +1,8 @@
 ---
 title: 'Coding'
-description: "A collection of coding projects that I have undertaken."
 date: Wed, 16 Apr 2014 16:30:58 +0000
+description: "A collection of coding projects that I have undertaken."
+keywords: [coding, programming, github, website, design]
 draft: false
 ---
 

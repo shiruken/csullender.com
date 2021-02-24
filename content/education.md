@@ -1,7 +1,8 @@
 ---
 title: 'Education'
-description: "A summary of my educational background"
 date: Sun, 05 Feb 2012 00:12:03 +0000
+description: "A summary of my educational background"
+keywords: [education, academic, science, texas, washington, uab, graduate, school, undergraduate]
 draft: false
 ---
 
