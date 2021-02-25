@@ -5,10 +5,10 @@
 {{ range $i, $r := getCSV $sep $data }}
     {{ $artist := index $r 0 }}
     {{ $artist_encoded := replace $artist " " "+"}}
-    {{ $filename := index $r 1 }}
+    {{ $url := index $r 1 }}
     <div class="artist-grid-entry">
         <a href="https://www.last.fm/music/{{ $artist_encoded }}" title="View '{{ $artist }}' on LastFM" target="_blank">
-            <img src="{{ $filename }}" alt="{{ $artist }}" />
+            <img src="{{ $url }}" alt="{{ $artist }}" />
             <span>{{ $artist }}</span>
         </a>
     </div>
