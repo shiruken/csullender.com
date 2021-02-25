@@ -15,6 +15,9 @@ div.artist-grid-entry {
 }
 
 .artist-grid-entry img {
+    display: block;
+    height: 125px;
+    width: 125px;
     border: 1px solid black;
     margin-bottom: 5px;
 }
