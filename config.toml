@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
 
 disqusShortname = "csullender"
-googleAnalytics = "G-XKMRF7KB73"
+googleAnalytics = "UA-26412009-1"
 enableRobotsTXT = true
 
 [taxonomies]
