@@ -15,8 +15,10 @@ pygmentscodefencesguesssyntax = true
 pygmentsstyle = "solarized-dark"
 
 disqusShortname = "csullender"
-googleAnalytics = "UA-26412009-1"
 enableRobotsTXT = true
+
+[params.googleTagManager]
+    id = "UA-26412009-1"
 
 [taxonomies]
     tag = "tags"
