@@ -32,6 +32,6 @@ Once downloaded, move the `bootstrap.dat` file into your Dogecoin data directory
 
 ![Dogecoin Blockchain Synchronization](SyncProgress.png)
 
-Once the wallet is fully synchronized with the blockchain, you can remove the `bootstrap.dat.old` file (if it exists) to recover drive space. If all goes well, then this should significantly speed up the initialization of your Dogecoin wallet and set you well on your way to the moon!
+Once the wallet is fully synchronized with the blockchain, you can remove the `bootstrap.dat.old` file to recover drive space. If all goes well, then this should significantly speed up the initialization of your Dogecoin wallet and set you well on your way to the moon!
 
 Tips: [D86eYHU5q3c4cPp1D3vRWaoTJdNWNSrWPT](dogecoin:D86eYHU5q3c4cPp1D3vRWaoTJdNWNSrWPT)
