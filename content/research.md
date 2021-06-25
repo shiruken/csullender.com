@@ -37,9 +37,13 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Posters / Presentations**
 
+* Laser Speckle Contrast Imaging for Visualizing Blood Flow During Cerebral Aneurysm Surgery: Comparison with Indocyanine-Green Angiography (AANS 2020)
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts (Neural Imaging and Sensing 2020)
+* Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts (Neuroscience 2019)
+* A bi-directional optical-genetic toolkit for reading and writing topographic neural population codes in behaving macaque cortex (Neuroscience 2019)
 * Computational speckle contrast optical tomography (SPIE BiOS 2019)
 * A fast three-dimensional dynamic light scattering computational model for imaging through turbid media (Advances in Optics for Biotechnology, Medicine and Surgery XVI 2019)
+* Targeted photothrombotic stroke to mouse motor cortex instigates sustained increases in dendritic spine turnover that continue after impairments improve (Neuroscience 2017)
 * Targeted photothrombotic stroke: a method for producing upper extremity impairments in mice (Neuroscience 2016)
 * Enlarging the penumbra with a slight variation of the standard photothrombotic technique: targeted artery occlusion (Neuroscience 2016)
 * Simultaneous imaging of oxygen tension and blood flow during stroke using a digital micromirror device (Austin Translational Neuroscience Symposium 2014)
