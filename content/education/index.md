@@ -8,13 +8,17 @@ draft: false
 
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). Learn about my [research](/research).
 
+# Continuing Education
+
+* [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) ([July 2021](Coursera_MachineLearning.png))
+
 &nbsp;
 [![University of Texas at Austin](/images/ut_banner.png)](https://www.utexas.edu/ "Visit the University of Texas website")
 
 **Ph.D., Biomedical Engineering** (December 2018)
 
 * Dissertation: [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_](https://doi.org/10.26153/tsw/7493)
-* Certification in Graduate Portfolio Program in Imaging Science and Informatics 
+* Certification in Graduate Portfolio Program in Imaging Science and Informatics
 
 **M.S.E., Biomedical Engineering** (May 2016)
 
