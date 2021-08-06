@@ -11,6 +11,8 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 # Continuing Education
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) ([July 2021](Coursera_MachineLearning.png))
+* [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) ([August 2021](https://www.coursera.org/account/accomplishments/certificate/87E924HL33EY))
+
 
 &nbsp;
 [![University of Texas at Austin](/images/ut_banner.png)](https://www.utexas.edu/ "Visit the University of Texas website")
