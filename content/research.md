@@ -25,7 +25,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
-* Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_bioRxiv_, 2021](https://doi.org/10.1101/2020.06.26.174227))
+* Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_Journal of Neuroscience Methods_, 2021](https://doi.org/10.1016/j.jneumeth.2021.109434))
 * Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography ([_medRxiv_, 2021](https://doi.org/10.1101/2021.04.29.21254954))
 * Effect of vascular structure on laser speckle contrast imaging ([_Biomedical Optics Express_, 2020](https://doi.org/10.1364/BOE.401235))
 * Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. ([_bioRxiv_, 2020](https://doi.org/10.1101/2020.06.08.140582))
