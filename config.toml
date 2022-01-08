@@ -20,6 +20,10 @@ enableRobotsTXT = true
 [params.googleTagManager]
     id = "UA-26412009-1"
 
+[params.matomo]
+    serverURL = "m.csullender.com"
+    siteID = "1"
+
 [taxonomies]
     tag = "tags"
 
