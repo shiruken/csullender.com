@@ -11,9 +11,9 @@ In an effort to step-up this year's party from previous years, we decided to cre
 
 Planning the menu started several weeks beforehand and was finalized about a week prior to the party. Cooking for 30-40 people is difficult in a studio apartment kitchen but somehow it happened successfully. The [Sansaire](http://sansaire.com/) immersion circulation, which Peter backed on [Kickstarter](https://www.kickstarter.com/projects/seattlefoodgeek/sansaire-sous-vide-circulator-for-199), made sous vide cooking incredibly easy and really saved a ton of effort. Many of the recipes were from the [Modernist Cuisine at Home](http://modernistcuisine.com/books/modernist-cuisine-at-home/) book and we even got some Twitter love from them for the menu:
 
-{{< tweet 440936553896886272 >}}
+{{< tweet user="ModCuisine" id="440936553896886272" >}}
 
-{{< tweet 440940468558233600 >}}
+{{< tweet user="ModCuisine" id="440940468558233600" >}}
 
 The nine dishes served are pictured below. [More pictures of the preparation and the actual event can be found in this Flickr set](http://www.flickr.com/photos/shiruken/sets/72157641837002243/). All photos were taken using a Google Nexus 5 smartphone and I am blown away by how much better they are compared to my old Nexus 4 I had last year.
 
