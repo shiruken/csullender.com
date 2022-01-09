@@ -41,8 +41,6 @@ enableRobotsTXT = true
 
     colorScheme = "light"
     hideColorSchemeToggle = true
-    hidecredits = false
-    hidecopyright = false
     rtl = false
     math = false
 
@@ -84,37 +82,37 @@ enableRobotsTXT = true
 # Social Links
 [[params.social]]
     name = "Twitter"
-    icon = "fa fa-twitter-square"
+    icon = "fa fa-2x fa-twitter-square"
     weight = 1
     url = "https://www.twitter.com/shiruken"
     target = "_blank"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fa fa-linkedin-square"
+    icon = "fa fa-2x fa-linkedin-square"
     weight = 2
     url = "https://www.linkedin.com/in/csullender/"
     target = "_blank"
 [[params.social]]
     name = "GitHub"
-    icon = "fa fa-github-square"
+    icon = "fa fa-2x fa-github-square"
     weight = 3
     url = "https://github.com/shiruken/"
     target = "_blank"
 [[params.social]]
     name = "ResearchGate"
-    icon = "ai ai-researchgate-square"
+    icon = "ai fa-2x ai-researchgate-square"
     weight = 4
     url = "https://www.researchgate.net/profile/Colin_Sullender"
     target = "_blank"
 [[params.social]]
     name = "ORCID"
-    icon = "ai ai-orcid-square"
+    icon = "ai fa-2x ai-orcid-square"
     weight = 5
     url = "https://orcid.org/0000-0003-4329-7708"
     target = "_blank"
 [[params.social]]
     name = "Google Scholar"
-    icon = "ai ai-google-scholar-square"
+    icon = "ai fa-2x ai-google-scholar-square"
     weight = 6
     url = "https://scholar.google.com/citations?user=29wBsHgAAAAJ"
     target = "_blank"
