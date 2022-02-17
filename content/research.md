@@ -25,19 +25,21 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
-* Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_Journal of Neuroscience Methods_, 2021](https://doi.org/10.1016/j.jneumeth.2021.109434))
+* Using pressure-driven flow systems to evaluate laser speckle contrast imaging (_Manuscript in Preparation_, 2022)
+* Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_Journal of Neuroscience Methods_, 2021](https://doi.org/10.1016/j.jneumeth.2021.109434); [Source Code](https://github.com/shiruken/dynamics-of-isoflurane-induced-vasodilation-and-blood-flow-of-cerebral-vasculature-revealed-by-mesi))
 * Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography ([_medRxiv_, 2021](https://doi.org/10.1101/2021.04.29.21254954))
 * Effect of vascular structure on laser speckle contrast imaging ([_Biomedical Optics Express_, 2020](https://doi.org/10.1364/BOE.401235))
 * Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. ([_bioRxiv_, 2020](https://doi.org/10.1101/2020.06.08.140582))
 * Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes ([_Science Advances_, 2020](https://doi.org/10.1126/sciadv.aba1933))
 * Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex ([_Journal of Neuroscience_, 2019](https://doi.org/10.1523/JNEUROSCI.1141-19.2019))
 * Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments ([_Scientific Reports_, 2019](https://doi.org/10.1038/s41598-019-39092-7))
-* Imaging of cortical oxygen tension and blood flow following targeted photothrombotic stroke ([_Neurophotonics_, 2018](https://doi.org/10.1117/1.NPh.5.3.035003))
+* Imaging of cortical oxygen tension and blood flow following targeted photothrombotic stroke ([_Neurophotonics_, 2018](https://doi.org/10.1117/1.NPh.5.3.035003); [Source Code](https://github.com/shiruken/imaging-of-cortical-oxygen-tension-and-blood-flow-following-targeted-photothrombotic-stroke))
 * Nanoelectronics enabled chronic multimodal neural platform in a mouse ischemic model ([_Journal of Neuroscience Methods_, 2018](https://doi.org/10.1016/j.jneumeth.2017.12.001))
 * In vivo multiphoton imaging of a diverse array of fluorophores to investigate deep neurovascular structure ([_Biomedical Optics Express_, 2017](https://doi.org/10.1364/BOE.8.003470))
 
 **Posters / Presentations**
 
+* Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery (Biophotonics Congress: Biomedical Optics 2022)
 * Statistical Anatomy of Microvascular Networks in Living Mouse Cortex (Biophotonics Congress: Biomedical Optics 2022)
 * Laser Speckle Contrast Imaging for Visualizing Blood Flow During Cerebral Aneurysm Surgery: Comparison with Indocyanine-Green Angiography ([AANS 2020](https://www.aans.org/Online-Program/Eposter?eventid=49170&itemid=EPOSTER&propid=49040))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neural Imaging and Sensing 2020](https://doi.org/10.1117/12.2546187))
