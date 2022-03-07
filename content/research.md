@@ -26,8 +26,8 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 **Papers**
 
 * Using pressure-driven flow systems to evaluate laser speckle contrast imaging (_Manuscript in Preparation_, 2022)
+* Continuous blood flow visualization with laser speckle contrast imaging during neurovascular surgery ([_Neurophotonics_, 2022](https://doi.org/10.1117/1.NPh.9.2.021908))
 * Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_Journal of Neuroscience Methods_, 2021](https://doi.org/10.1016/j.jneumeth.2021.109434); [Source Code](https://github.com/shiruken/dynamics-of-isoflurane-induced-vasodilation-and-blood-flow-of-cerebral-vasculature-revealed-by-mesi))
-* Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography ([_medRxiv_, 2021](https://doi.org/10.1101/2021.04.29.21254954))
 * Effect of vascular structure on laser speckle contrast imaging ([_Biomedical Optics Express_, 2020](https://doi.org/10.1364/BOE.401235))
 * Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window. ([_bioRxiv_, 2020](https://doi.org/10.1101/2020.06.08.140582))
 * Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes ([_Science Advances_, 2020](https://doi.org/10.1126/sciadv.aba1933))
