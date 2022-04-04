@@ -42,7 +42,6 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery (Biophotonics Congress: Biomedical Optics 2022)
 * Statistical Anatomy of Microvascular Networks in Living Mouse Cortex (Biophotonics Congress: Biomedical Optics 2022)
 * Intraoperative real-time and continuous cerebral blood flow visualization with laser speckle contrast imaging ([Clinical and Translational Neurophotonics 2022](https://doi.org/10.1117/12.2608914))
-* Laser Speckle Contrast Imaging for Visualizing Blood Flow During Cerebral Aneurysm Surgery: Comparison with Indocyanine-Green Angiography ([AANS 2020](https://www.aans.org/Online-Program/Eposter?eventid=49170&itemid=EPOSTER&propid=49040))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neural Imaging and Sensing 2020](https://doi.org/10.1117/12.2546187))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neuroscience 2019](https://www.abstractsonline.com/pp8/#!/7883/presentation/61950))
 * A bi-directional optical-genetic toolkit for reading and writing topographic neural population codes in behaving macaque cortex ([Neuroscience 2019](https://www.abstractsonline.com/pp8/#!/7883/presentation/69330))
