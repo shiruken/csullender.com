@@ -39,6 +39,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Posters / Presentations**
 
+* Continuous Blood Flow Visualization with Laser Speckle Contrast Imaging During Cerebrovascular Surgery (AANS 2022)
 * Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery (Biophotonics Congress: Biomedical Optics 2022)
 * Statistical Anatomy of Microvascular Networks in Living Mouse Cortex (Biophotonics Congress: Biomedical Optics 2022)
 * Intraoperative real-time and continuous cerebral blood flow visualization with laser speckle contrast imaging ([Clinical and Translational Neurophotonics 2022](https://doi.org/10.1117/12.2608914))
