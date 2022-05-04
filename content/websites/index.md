@@ -23,7 +23,7 @@ Behind the scenes, I implemented a comprehensive tracking system using the Reddi
 
 [foil.bme.utexas.edu](https://foil.bme.utexas.edu/)
 
-I helped develop and currently maintain the website for my academic research lab at the University of Texas at Austin. We wanted a platform that did not require editing raw HTML in order to update content such as member lists and publications. The website was built using [Django](https://www.djangoproject.com/) and [Bootstrap](https://getbootstrap.com/) to be fully responsive across a variety of devices.
+I helped develop and currently maintain the website for my academic research lab at the University of Texas at Austin. The website was built using [Hugo](https://gohugo.io/) using the [Wowchemy](https://wowchemy.com/) module for the design and hosted on [GitHub Pages](https://pages.github.com/).
 
 [![Screenshot of FOIL website](FOIL.png)](https://foil.bme.utexas.edu/ "Visit the FOIL website")
 
