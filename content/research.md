@@ -21,7 +21,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Development of custom software (Qt C++) for real-time LSCI acquisition, processing, and visualization.
 * Development of numerical Monte Carlo model of dynamic light scattering for computational speckle contrast optical tomography in the brain.
 
-**Dissertation:** [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_ (August 2018)](https://doi.org/10.26153/tsw/7493)
+**Dissertation:** [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_](https://doi.org/10.26153/tsw/7493) ([Source Code](https://github.com/shiruken/dissertation))
 
 **Papers**
 
@@ -41,7 +41,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 * Continuous Blood Flow Visualization with Laser Speckle Contrast Imaging During Cerebrovascular Surgery (AANS 2022)
 * Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery (Biophotonics Congress: Biomedical Optics 2022)
-* Statistical Anatomy of Microvascular Networks in Living Mouse Cortex (Biophotonics Congress: Biomedical Optics 2022)
+* Statistical Anatomy of Microvascular Networks in Living Mouse Cortex ([Biophotonics Congress: Biomedical Optics 2022](https://www.optica.org/en-us/events/congress/biophotonics_congress_biomedical_optics/e-posters/poster/?id=3703818))
 * Intraoperative real-time and continuous cerebral blood flow visualization with laser speckle contrast imaging ([Clinical and Translational Neurophotonics 2022](https://doi.org/10.1117/12.2608914))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neural Imaging and Sensing 2020](https://doi.org/10.1117/12.2546187))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neuroscience 2019](https://www.abstractsonline.com/pp8/#!/7883/presentation/61950))
