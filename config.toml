@@ -17,8 +17,7 @@ pygmentsstyle = "solarized-dark"
 disqusShortname = "csullender"
 enableRobotsTXT = true
 
-[params.googleTagManager]
-    id = "UA-26412009-1"
+googleAnalytics = "G-XKMRF7KB73"
 
 [params.matomo]
     serverURL = "m.csullender.com"
