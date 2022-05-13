@@ -6,6 +6,6 @@ draft: false
 keywords: [Music, Concert, Band, Artist, Musician, LastFM, Live, Live Music]
 ---
 
-An incomplete list of artists that I've seen live in concert
+An incomplete list of artists that I've seen live in concert. For more detail, see my [Concert Archives profile](https://www.concertarchives.org/shiruken).
 
 {{< artist-grid >}}
