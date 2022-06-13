@@ -9,6 +9,13 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https://github.com/shiruken/). Check out my [websites](/websites).
 
 
+# Reddit r/science DOI Checker
+
+Automatic [digital object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier) lookup for posts on the [r/science community](https://www.reddit.com/r/science/) used to facilitate the moderation of reposts and other invalid submissions. Powered by [PRAW](https://praw.readthedocs.io/) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for parsing website content and [Flask](https://flask.palletsprojects.com/) for generating the frontend interface. Hosted using [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/).
+
+![r/science DOI Checker](doibot.png)
+
+
 # Texas COVID-19 Vaccine Tracker
 
 [covid-texas.csullender.com/vaccine](https://covid-texas.csullender.com/vaccine/) ([GitHub](https://github.com/shiruken/covid-texas))
