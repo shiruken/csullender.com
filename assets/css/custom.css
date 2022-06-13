@@ -4,6 +4,6 @@
     hyphens: inherit;
 }
 
-video {
-    border: 1px solid #999999;
+.content article img, video {
+    border: 1px solid #999999;    
 }
