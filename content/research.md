@@ -6,7 +6,7 @@ keywords: [research, academic, science, texas, washington, uab, graduate, school
 draft: false
 ---
 
-Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). Learn about my [education](/education).
+Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). View my [CV](/cv.pdf). Learn about my [education](/education).
 
 &nbsp;
 [![University of Texas at Austin](/images/ut_banner.png)](https://www.utexas.edu/ "Visit the University of Texas website")

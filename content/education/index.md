@@ -6,7 +6,7 @@ keywords: [education, academic, science, texas, washington, uab, graduate, schoo
 draft: false
 ---
 
-Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). Learn about my [research](/research).
+Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). View my [CV](/cv.pdf). Learn about my [research](/research).
 
 # Continuing Education
 
