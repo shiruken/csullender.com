@@ -17,49 +17,49 @@ Planning the menu started several weeks beforehand and was finalized about a wee
 
 The nine dishes served are pictured below. [More pictures of the preparation and the actual event can be found in this Flickr set](http://www.flickr.com/photos/shiruken/sets/72157641837002243/). All photos were taken using a Google Nexus 5 smartphone and I am blown away by how much better they are compared to my old Nexus 4 I had last year.
 
-[![The Menu](https://live.staticflickr.com/7303/12919325504_a091d61eac_z.jpg)](https://flic.kr/p/kFCVns "The Menu by Colin Sullender, on Flickr")
+![The Menu](menu.jpg)
 
 # The Wolf of Wall Street
 _'Cocaine' bacon fat powder, oyster shot, and smoked-ice whiskey_
 
-[![DISH #1 - The Wolf of Wall Street](https://live.staticflickr.com/7362/12919423564_d4dd05900b_b.jpg)](https://flic.kr/p/kFDqw9 "DISH #1 - The Wolf of Wall Street by Colin Sullender, on Flickr")
+![DISH #1 - The Wolf of Wall Street](wolfofwallstreet.jpg)
 
 # Nebraska
 _Corn soup, roast beef, and Coors sauce_
 
-[![DISH #2 - Nebraska](https://live.staticflickr.com/7305/12919114933_29ac10b6c3_b.jpg)](https://flic.kr/p/kFBQLV "DISH #2 - Nebraska by Colin Sullender, on Flickr")
+![DISH #2 - Nebraska](nebraska.jpg)
 
 # American Hustle
 _Chicken piccata and 'science oven' eggplant parmesan_
 
-[![DISH #3 - American Hustle](https://live.staticflickr.com/7339/12919119853_e84e708019_b.jpg)](https://flic.kr/p/kFBSeK "DISH #3 - American Hustle by Colin Sullender, on Flickr")
+![DISH #3 - American Hustle](americanhustle.jpg)
 
 # Philomena
 _Salad with fruitcake croutons, Earl Grey tea gel, walnuts, feta, and Guinness vinaigrette_
 
-[![DISH #4 - Philomena](https://live.staticflickr.com/7368/12919434954_0c117d8d3e_b.jpg)](https://flic.kr/p/kFDtUw "DISH #4 - Philomena by Colin Sullender, on Flickr")
+![DISH #4 - Philomena](philomena.jpg)
 
 # Captain Phillips
 _Somali-spiced fish stock, baby octopus, and kombu butter crostini with pickled veggies_
 
-[![DISH #5 - Captain Phillips](https://live.staticflickr.com/7448/12919125003_fbfb804f1c_b.jpg)](https://flic.kr/p/kFBTLx "DISH #5 - Captain Phillips by Colin Sullender, on Flickr")
+![DISH #5 - Captain Phillips](captainphillips.jpg)
 
 # Dallas Buyers Club
 _Skirt steak and navy bean 'pills'_
 
-[![DISH #6 - Dallas Buyers Club](https://live.staticflickr.com/2874/12919032825_3b0017b4a3_b.jpg)](https://flic.kr/p/kFBqng "DISH #6 - Dallas Buyers Club by Colin Sullender, on Flickr")
+![DISH #6 - Dallas Buyers Club](dallasbuyersclub.jpg)
 
 # Gravity
 _Microwaved sesame spongecake, pickled starfruit, and pipette of Tang crème anglaise_
 
-[![DISH #7 - Gravity](https://live.staticflickr.com/3755/12919445054_5877196857_b.jpg)](https://flic.kr/p/kFDwUE "DISH #7 - Gravity by Colin Sullender, on Flickr")
+![DISH #7 - Gravity](gravity.jpg)
 
 # 12 Years a Slave
 _Blackberry icecream and sweet Johnnycakes_
 
-[![DISH #8 - 12 Years a Slave](https://live.staticflickr.com/7423/12919447554_2520fc453d_b.jpg)](https://flic.kr/p/kFDxDL "DISH #8 - 12 Years a Slave by Colin Sullender, on Flickr")
+![DISH #8 - 12 Years a Slave](12yearsaslave.jpg)
 
 # Her
 _Lemongrass cupcakes with gin and lime filling topped with vanilla frosting and fondant notebook_
 
-[![DISH #9 - Her](https://live.staticflickr.com/3684/12919135873_fcf8c48c1f_b.jpg)](https://flic.kr/p/kFBWZX "DISH #9 - Her by Colin Sullender, on Flickr")
+![DISH #9 - Her](her.jpg)

@@ -9,8 +9,6 @@ The [Red Bull Grand Prix of the Americas](http://www.motogp.com/en/events/Americ
 
 {{< youtube PYEuiWbp314 >}}
 
-[![Qualifiers](https://live.staticflickr.com/3668/13871871665_5269c6f3c7_b.jpg)](https://flic.kr/p/n8NYa8 "Qualifiers by Colin Sullender, on Flickr")
-
-[![Circuit of the Americas Track](https://live.staticflickr.com/3708/13871925673_6a53be5c31_b.jpg)](https://flic.kr/p/n8Pfdi "Circuit of the Americas Track by Colin Sullender, on Flickr")
-
-[![MotoGP](https://live.staticflickr.com/7095/13871927735_4451d03f9e_b.jpg)](https://flic.kr/p/n8PfPR "MotoGP by Colin Sullender, on Flickr")
+![Qualifiers](qualifiers.jpg)
+![Circuit of the Americas Track](track.jpg)
+![MotoGP](motogp.jpg)

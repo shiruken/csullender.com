@@ -29,7 +29,7 @@ I'm really bad at picking my favorite music of the year, so I'll let the [LastFM
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/ea1d97c2e4f54b65927794b35285aa0c.png" caption="Macklemore & Ryan Lewis" >}}
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/242eb074b273eb35de263a3351f0367d.png" caption="HAIM" >}}
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/b5f1149c6a8349d3c98c2c91c3f09766.png" caption="Capital Cities" >}}
-{{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/a2e932dd8e29d61d02f42e64d2bddffc.png" caption="Grouplove" >}}
+{{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/cf0ce766bc46c37e29e0fc28994f1568.jpg" caption="Grouplove" >}}
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/142db3228c523243ac17ad5d2929d8db.png" caption="Krewella" >}}
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/b3b2a7daf14a416ec1a5cb455ae62ccd.png" caption="Howard Shore" >}}
 {{< figure src="https://lastfm.freetls.fastly.net/i/u/174s/b28c7e82fb104bc686ca37cca709564e.jpg" caption="M83" >}}
