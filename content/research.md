@@ -23,6 +23,10 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Dissertation:** [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_](https://doi.org/10.26153/tsw/7493) ([Source Code](https://github.com/shiruken/dissertation))
 
+**Resources:**
+
+* [MATLAB code for calculating spatial and temporal speckle contrast](https://github.com/shiruken/speckle)
+
 **Papers**
 
 * Using pressure-driven flow systems to evaluate laser speckle contrast imaging (_Manuscript in Preparation_, 2022)
