@@ -25,7 +25,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Resources:**
 
-* [MATLAB code for calculating spatial and temporal speckle contrast](https://github.com/shiruken/speckle)
+* [MATLAB code for calculating speckle contrast](https://github.com/shiruken/speckle)
 
 **Papers**
 
