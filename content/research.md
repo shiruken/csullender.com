@@ -43,9 +43,9 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Posters / Presentations**
 
-* Continuous Blood Flow Visualization with Laser Speckle Contrast Imaging During Cerebrovascular Surgery (AANS 2022)
-* Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery (Biophotonics Congress: Biomedical Optics 2022)
-* Statistical Anatomy of Microvascular Networks in Living Mouse Cortex ([Biophotonics Congress: Biomedical Optics 2022](https://www.optica.org/en-us/events/congress/biophotonics_congress_biomedical_optics/e-posters/poster/?id=3703818))
+* Continuous Blood Flow Visualization with Laser Speckle Contrast Imaging During Cerebrovascular Surgery ([AANS 2022](https://doi.org/10.3171/2022.5.JNS.AANS2022abstracts))
+* Laser Speckle Contrast Imaging for Intraoperative Blood Flow Visualization During Neurosurgery ([Biophotonics Congress: Biomedical Optics 2022](https://opg.optica.org/abstract.cfm?uri=OTS-2022-OM4D.1))
+* Statistical Anatomy of Microvascular Networks in Living Mouse Cortex ([Biophotonics Congress: Biomedical Optics 2022](https://opg.optica.org/abstract.cfm?uri=microscopy-2022-JM3A.57))
 * Intraoperative real-time and continuous cerebral blood flow visualization with laser speckle contrast imaging ([Clinical and Translational Neurophotonics 2022](https://doi.org/10.1117/12.2608914))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neural Imaging and Sensing 2020](https://doi.org/10.1117/12.2546187))
 * Longitudinal multimodal mapping of neural activity and blood flow reveals neurovascular dissociations in an awake mouse model of microinfarcts ([Neuroscience 2019](https://www.abstractsonline.com/pp8/#!/7883/presentation/61950))
@@ -56,9 +56,10 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Targeted photothrombotic stroke to mouse motor cortex instigates sustained increases in dendritic spine turnover that continue after impairments improve ([Neuroscience 2017](https://www.abstractsonline.com/pp8/index.html#!/4376/presentation/27871))
 * Targeted photothrombotic stroke: a method for producing upper extremity impairments in mice ([Neuroscience 2016](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/10072))
 * Enlarging the penumbra with a slight variation of the standard photothrombotic technique: targeted artery occlusion ([Neuroscience 2016](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/10082))
+* Development of a 3D-printed Laser Speckle Contrast Imaging System ([BMES 2016](https://submissions.mirasmart.com/SecureView/BMESArchive/radz5wusavm.pdf))
 * Simultaneous imaging of oxygen tension and blood flow during stroke using a digital micromirror device (Austin Translational Neuroscience Symposium 2014)
-* Simultaneous imaging of oxygen tension and blood flow during stroke using a digital micromirror device (BMES 2014)
-* Delivery of oxygen-sensitive two-photon contrast agent to the mouse brain via blood brain barrier disruption using ultrasound and microbubbles (BMES 2013)
+* Simultaneous imaging of oxygen tension and blood flow during stroke using a digital micromirror device ([BMES 2014](https://submissions.mirasmart.com/SecureView/BMESArchive/radmc31xys2.pdf))
+* Delivery of oxygen-sensitive two-photon contrast agent to the mouse brain via blood brain barrier disruption using ultrasound and microbubbles ([BMES 2013](https://submissions.mirasmart.com/SecureView/BMESArchive/rad2jkahx44.pdf))
 
 &nbsp;
 [![University of Washington](/images/uw_banner.png)](https://www.washington.edu/ "Visit the University of Washington website")
