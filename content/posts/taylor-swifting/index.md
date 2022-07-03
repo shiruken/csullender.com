@@ -5,7 +5,7 @@ draft: false
 tags: ['Coding', 'Web', 'Music', 'LastFM']
 ---
 
-I had a [really random idea](https://twitter.com/shiruken/status/536957959503241217) the other day for a simple coding project using the LastFM API: When was the last time you listened to Taylor Swift? This is obviously an extremely important statistic to know for the Taylor Swift obsessed. I already made a tool to [lookup the first time you listened to an artist](/first) using your LastFM profile, so this was a relatively straightforward adaptation. I also wanted to take this opportunity to leverage the power of [jQuery](http://jquery.com/) to asynchronously load the information rather than simply waiting for a static page. Check out [The Last Swifting](/swifting) page or continue reading for more information.
+I had a [really random idea](https://twitter.com/shiruken/status/536957959503241217) the other day for a simple coding project using the LastFM API: When was the last time you listened to Taylor Swift? This is obviously an extremely important statistic to know for the Taylor Swift obsessed. I already made a tool to [~~lookup the first time you listened to an artist~~](/first) using your LastFM profile, so this was a relatively straightforward adaptation. I also wanted to take this opportunity to leverage the power of [jQuery](http://jquery.com/) to asynchronously load the information rather than simply waiting for a static page. Check out ~~The Last Swifting page~~ (_Deprecated July 2022_) or continue reading for more information.
 
 ![Screenshot of The Last Swifting result page](screenshot.jpg)
 
@@ -15,5 +15,4 @@ During development of the webpage, I wanted to make the username input more inte
 
 ![Text Entry Demonstration](text.gif)
 
-**Check It Out:** [**The Last Swifting**](/swifting)
-
+~~**Check It Out:** **The Last Swifting**~~ (_Deprecated July 2022_)

@@ -5,7 +5,7 @@ draft: false
 tags: ['Coding', 'Web', 'Cryptocurrency', 'Dogecoin']
 ---
 
-The first block reward halving for [Dogecoin](http://dogecoin.com/) resulted in many [Reddit users](http://www.reddit.com/r/dogecoin/) asking when the event was occurring and how much the new block reward would be. I haven't been able to find a good countdown website so I decided to throw one together myself. It uses the [DogeChain](http://dogechain.info/chain/Dogecoin) API to grab the current block number and estimates the time until the next change in the block reward. Since the Dogecoin [protocol](https://bitcointalk.org/index.php?PHPSESSID=7fsbe1l362dulhpb5an0j4imq0&topic=361813.msg3872945#msg3872945) establishes the specific block rewards, it's relatively simple to calculate it with some accuracy. Check it out by [clicking here](/dogecoin/halving.php)!
+The first block reward halving for [Dogecoin](http://dogecoin.com/) resulted in many [Reddit users](http://www.reddit.com/r/dogecoin/) asking when the event was occurring and how much the new block reward would be. I haven't been able to find a good countdown website so I decided to throw one together myself. It uses the [DogeChain](http://dogechain.info/chain/Dogecoin) API to grab the current block number and estimates the time until the next change in the block reward. Since the Dogecoin [protocol](https://bitcointalk.org/index.php?PHPSESSID=7fsbe1l362dulhpb5an0j4imq0&topic=361813.msg3872945#msg3872945) establishes the specific block rewards, it's relatively simple to calculate it with some accuracy. Check it out by ~~clicking here~~ _(Deprecated July 2022)_.
 
 ![Dogecoin Halving Countdown Screenshot](Screenshot.jpg)
 
