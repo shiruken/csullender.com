@@ -1,0 +1,41 @@
+div#artist-grid {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+div.artist-grid-entry {
+    margin: 0px 5px 20px 5px;
+    width: 125px;
+    align-self: flex-start;
+    line-height:1.2em;
+}
+
+.artist-grid-entry img {
+    display: block;
+    height: 125px;
+    width: 125px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.artist-grid-entry span {
+    font-size: 0.8em;
+    font-weight: normal;
+}
+
+.artist-grid-entry a, .artist-grid-entry a:link, .artist-grid-entry a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+.artist-grid-entry a:hover, .artist-grid-entry a:active {
+    color: #d50000;
+}
+
+.artist-grid-entry a:hover img, .artist-grid-entry a:active img {
+    opacity: 0.75;
+}
