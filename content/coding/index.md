@@ -52,11 +52,9 @@ Monitors the [r/science community](https://www.reddit.com/r/science/) for all ne
 
 # Scholar Plotr
 
-[csullender.com/scholar](/scholar)
+_Deprecated in July 2022_
 
-Scrapes Google Scholar search results to generate annual publication frequency charts for a specific query. Uses a combination of Javascript and Google Apps Script to overcome Google's anti-scraping protection. Dear Google, please please please implement an API for Google Scholar.
-
-_**Note:** This tool is frequently nonfunctional thanks to Google rate-limiting and blocking my server._
+Scraped Google Scholar search results to generate annual publication frequency charts for a specific query. Used a combination of Javascript and Google Apps Scripts to overcome Google's anti-scraping protection. Dear Google, please please please implement an API for Google Scholar.
 
 ![Scholar Plotr Screenshot](ScholarPlotr.png)
 
@@ -70,16 +68,16 @@ Lists every band I've seen perform live in concert. Uses the LastFM API to grab 
 
 # LastFM Listening History
 
-[csullender.com/lastfm](/lastfm)
+_Deprecated in July 2022_
 
-Uses the [LastFM](https://www.last.fm/) API and Python to scrape my weekly, yearly, and overall most listened-to artists, albums, and tracks. Loads and displays entries asynchronously using [jQuery](https://jquery.com/) and PHP.
+Used the [LastFM](https://www.last.fm/) API and Python to scrape my weekly, yearly, and overall most listened-to artists, albums, and tracks. Loaded and displayed entries asynchronously using [jQuery](https://jquery.com/) and PHP.
 
 {{< video src="LastFMHistory.mp4" preload="metadata" >}}
 
 
 # LastFM First Listen
 
-[csullender.com/first](/first)
+_Deprecated in July 2022_
 
 Input a [LastFM](https://www.last.fm/) username and an artist to get the first time the user ever scrobbled the artist and the name of the corresponding song. Implemented completely in PHP.
 
@@ -88,7 +86,7 @@ Input a [LastFM](https://www.last.fm/) username and an artist to get the first t
 
 # The Last Swifting
 
-[csullender.com/swifting](/swifting)
+_Deprecated in July 2022_
 
 Input a [LastFM](https://www.last.fm/) username to see the last time the user listened to a Taylor Swift song (if ever). Results are asynchronously loaded using [jQuery](https://jquery.com/) and PHP.
 
@@ -97,21 +95,25 @@ Input a [LastFM](https://www.last.fm/) username to see the last time the user li
 
 # Fitbit History
 
-[csullender.com/fitbit](/fitbit)
+_Deprecated in July 2022_
 
-Uses the [Fitbit](https://www.fitbit.com/) API and Python to scrape my daily step count and sleep estimate to generate a dashboard-style website depicting a variety of statistics about my activity. Data is visualized using [Google Charts](https://developers.google.com/chart/).
+Used the [Fitbit](https://www.fitbit.com/) API and Python to ingest my daily step count and sleep estimates into a MySQL database in order to generate a dashboard website depicting a variety of statistics about my activity. Data was visualized using [Google Charts](https://developers.google.com/chart/).
+
+![Screenshot of Fitbit History Dashboard](fitbit.png)
 
 
 # Trakt Viewing History
 
-[csullender.com/trakt](/trakt)
+_Deprecated in July 2022_
 
-Uses the [Trakt](https://trakt.tv/) and [TMDb](https://www.themoviedb.org/) APIs and Python to scrape my recently-viewed TV shows and movies and displays a list featuring episode stills and movie posters.
+Used the [Trakt](https://trakt.tv/) and [TMDb](https://www.themoviedb.org/) APIs and Python to scrape my recently-viewed TV shows and movies and displayed a list featuring episode stills and movie posters.
+
+![Screenshot of Trakt Website](trakt.png)
 
 
 # Alabama Amendments Tweetbot
 
-[~~@BamaAmendments~~](https://twitter.com/bamaamendments) (_Account suspended November 2020_)
+_Disabled in November 2020_
 
 Uses the Twitter API and Python to post a daily tweet for each of the over 900 amendments to the 1901 Alabama Constitution.
 
@@ -129,7 +131,7 @@ Used the Twitter API + Python to reconstruct and maintain a clone of the downloa
 
 # Dogecoin Address Analysis
 
-[~~csullender.com/dogecoin/address.php~~](/dogecoin/address.php) (_Deprecated in September 2015_)
+_Deprecated in September 2015_
 
 Loaded transaction data from [Dogechain](https://dogechain.info/) to generate a timeline and histogram of an individual Dogecoin address' balance over time. Powered by PHP and visualized with [Google Charts](https://developers.google.com/chart/).
 
@@ -138,7 +140,7 @@ Loaded transaction data from [Dogechain](https://dogechain.info/) to generate a 
 
 # 100 Billion Dogecoin Countdown
 
-[~~csullender.com/dogecoin~~](/dogecoin) (_Deprecated in June 2015_)
+_Deprecated in June 2015_
 
 Estimated the time remaining until the 100 billionth Dogecoin was mined based on information from the [SoChain](https://chain.so/) API. Displayed as a Javascript countdown timer.
 
@@ -147,14 +149,14 @@ Estimated the time remaining until the 100 billionth Dogecoin was mined based on
 
 # Dogecoin Tweetbot
 
-[~~@100BillionDoge~~](https://twitter.com/100BillionDoge) (_Deprecated in June 2015_)
+_Deprecated in June 2015_
 
 Used the Twitter API and Python to tweet hourly updates about the remaining time until the each Dogecoin block reward halving and the mining of the 100 billionth Dogecoin.
 
 
 # Dogecoin Halving Countdown
 
-[~~csullender.com/dogecoin/halving.php~~](/dogecoin/halving.php) (_Deprecated in February 2015_)
+_Deprecated in February 2015_
 
 Estimated the time remaining until the next Dogecoin block reward halving based on information from the [Dogechain](https://dogechain.info/) API. Displayed as a Javascript countdown timer.
 
@@ -162,7 +164,7 @@ Estimated the time remaining until the next Dogecoin block reward halving based 
 
 # Dogecoin Block Discovery
 
-[~~csullender.com/dogecoin/blocktime.php~~](/dogecoin/blocktime.php) (_Deprecated in December 2014_)
+_Deprecated in December 2014_
 
 Used the [Dogechain](https://dogechain.info/) API and Python to scrape block timing information. Visualized the timeline and histogram of the Dogecoin block discovery times since inception using [Google Charts](https://developers.google.com/chart/).
 
