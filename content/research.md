@@ -41,6 +41,10 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Nanoelectronics enabled chronic multimodal neural platform in a mouse ischemic model ([_Journal of Neuroscience Methods_, 2018](https://doi.org/10.1016/j.jneumeth.2017.12.001))
 * In vivo multiphoton imaging of a diverse array of fluorophores to investigate deep neurovascular structure ([_Biomedical Optics Express_, 2017](https://doi.org/10.1364/BOE.8.003470))
 
+**Book Chapters**
+
+* Multi-Exposure Speckle Imaging for quantitative evaluation of cortical blood flow (_In Press_)
+
 **Posters / Presentations**
 
 * Continuous Blood Flow Visualization with Laser Speckle Contrast Imaging During Cerebrovascular Surgery ([AANS 2022](https://doi.org/10.3171/2022.5.JNS.AANS2022abstracts#d55953108e4557))
