@@ -1,3 +1,5 @@
-![Build Site](https://github.com/shiruken/csullender.com/workflows/Build%20Site/badge.svg?branch=master)
+[![Build Website](https://github.com/shiruken/csullender.com/actions/workflows/build.yml/badge.svg)](https://github.com/shiruken/csullender.com/actions/workflows/build.yml)
 
-This website is generated using [Hugo](https://gohugo.io/) and continuously deployed using GitHub Actions to GitHub Pages.
+# csullender.com
+
+Source code for my personal website. Generated using [Hugo](https://gohugo.io/) and continuously deployed using GitHub Actions to GitHub Pages.
