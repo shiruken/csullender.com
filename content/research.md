@@ -29,7 +29,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Papers**
 
-* Using pressure-driven flow systems to evaluate laser speckle contrast imaging (_Manuscript Under Review_, 2022)
+* Using pressure-driven flow systems to evaluate laser speckle contrast imaging (_Manuscript Under Review_, 2022; [_bioRxiv_](https://doi.org/10.1101/2022.09.16.508276))
 * Continuous blood flow visualization with laser speckle contrast imaging during neurovascular surgery ([_Neurophotonics_, 2022](https://doi.org/10.1117/1.NPh.9.2.021908))
 * Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging ([_Journal of Neuroscience Methods_, 2021](https://doi.org/10.1016/j.jneumeth.2021.109434); [Source Code](https://github.com/shiruken/dynamics-of-isoflurane-induced-vasodilation-and-blood-flow-of-cerebral-vasculature-revealed-by-mesi))
 * Effect of vascular structure on laser speckle contrast imaging ([_Biomedical Optics Express_, 2020](https://doi.org/10.1364/BOE.401235))
