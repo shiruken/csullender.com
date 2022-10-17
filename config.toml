@@ -24,7 +24,7 @@ googleAnalytics = "G-XKMRF7KB73"
     siteID = "1"
 
 [params.plausibleAnalytics]
-  domain = "csullender.com"
+  domain = "csullender.com rollup.csullender.com"
   serverURL = "p.csullender.com"
 
 [taxonomies]
