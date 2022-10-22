@@ -59,7 +59,7 @@
   {{- partial "analytics/plausible" . -}}
   {{ end }}
 
-  {{ if and .Site.Params.umamiAnalytics .Site.Params.umamiAnalytics.websiteID }}
+  {{ if and .Site.Params.umamiAnalytics .Site.Params.umamiAnalytics.scriptURL .Site.Params.umamiAnalytics.websiteID }}
   {{- partial "analytics/umami" . -}}
   {{ end }}
 

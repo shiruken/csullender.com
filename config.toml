@@ -28,7 +28,7 @@ googleAnalytics = "G-XKMRF7KB73"
     domain = "csullender.com,/csullender.com"
 
 [params.umamiAnalytics]
-    serverURL = "u.csullender.com"
+    scriptURL = "https://u.csullender.com/script.js"
     websiteID = "d6527871-ec0b-4ff7-a839-3601a22d4549"
 
 [taxonomies]
