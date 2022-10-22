@@ -24,8 +24,12 @@ googleAnalytics = "G-XKMRF7KB73"
     siteID = "1"
 
 [params.plausibleAnalytics]
-  domain = "csullender.com,/csullender.com"
-  serverURL = "p.csullender.com"
+    serverURL = "p.csullender.com"
+    domain = "csullender.com,/csullender.com"
+
+[params.umamiAnalytics]
+    serverURL = "u.csullender.com"
+    websiteID = "d6527871-ec0b-4ff7-a839-3601a22d4549"
 
 [taxonomies]
     tag = "tags"
