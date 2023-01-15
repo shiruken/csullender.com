@@ -88,13 +88,6 @@ googleAnalytics = "G-XKMRF7KB73"
 
 # Social Links
 [[params.social]]
-    name = "Twitter"
-    icon = "fa fa-2x fa-twitter-square"
-    weight = 1
-    url = "https://www.twitter.com/shiruken"
-    rel = "me"
-    target = "_blank"
-[[params.social]]
     name = "Mastodon"
     icon = "fa fa-2x fa-mastodon-square"
     weight = 2
