@@ -19,11 +19,11 @@ Behind the scenes, I implemented a comprehensive tracking system using the Reddi
 
 [![Screenshot of Reddit r/science](Reddit-Science.png)](https://www.reddit.com/r/science/ "Visit the r/science subreddit")
 
-# Functional Optical Imaging Laboratory (2014 - Current)
+# Functional Optical Imaging Laboratory (2014 - 2022)
 
 [foil.bme.utexas.edu](https://foil.bme.utexas.edu/)
 
-I helped develop and currently maintain the website for my academic research lab at the University of Texas at Austin. The website was built using [Hugo](https://gohugo.io/) using the [Wowchemy](https://wowchemy.com/) module for the design and hosted on [GitHub Pages](https://pages.github.com/).
+I developed and maintained the website for my academic research lab at the University of Texas at Austin. The website was built using [Hugo](https://gohugo.io/) using the [Wowchemy](https://wowchemy.com/) module for the design and hosted on [GitHub Pages](https://pages.github.com/).
 
 [![Screenshot of FOIL website](FOIL.png)](https://foil.bme.utexas.edu/ "Visit the FOIL website")
 
