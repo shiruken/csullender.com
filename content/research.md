@@ -23,7 +23,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Dissertation:** [_Quantitative Optical Imaging Platform for Studying Neurovascular Hemodynamics During Ischemic Stroke_](https://doi.org/10.26153/tsw/7493) ([Source Code](https://github.com/shiruken/dissertation))
 
-**Resources:**
+**Resources**
 
 * [MATLAB code for calculating speckle contrast](https://github.com/shiruken/speckle)
 
@@ -47,7 +47,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Book Chapters**
 
-* Multi-Exposure Speckle Imaging for quantitative evaluation of cortical blood flow (_In Press_)
+* Multi-Exposure Speckle Imaging for quantitative evaluation of cortical blood flow ([_Methods in Molecular Biology: Neural Repair_, 2023](https://doi.org/10.1007/978-1-0716-2926-0_10))
 
 **Posters / Presentations**
 
