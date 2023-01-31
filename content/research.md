@@ -47,7 +47,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 **Book Chapters**
 
-* Multi-Exposure Speckle Imaging for quantitative evaluation of cortical blood flow ([_Neural Repair_, 2023](https://doi.org/10.1007/978-1-0716-2926-0_10))
+* Multi-Exposure Speckle Imaging for quantitative evaluation of cortical blood flow ([_Neural Repair: Methods and Protocols_, 2023](https://doi.org/10.1007/978-1-0716-2926-0_10))
 
 **Posters / Presentations**
 
