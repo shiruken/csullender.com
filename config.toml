@@ -10,9 +10,8 @@ paginate = 20
 canonifyurls = false
 enableGitInfo = true
 
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-pygmentsstyle = "solarized-dark"
+[markup.highlight]
+    style = "dracula"
 
 disqusShortname = "csullender"
 enableRobotsTXT = true
@@ -26,10 +25,13 @@ googleAnalytics = "G-XKMRF7KB73"
 [params.plausibleAnalytics]
     serverURL = "p.csullender.com"
     domain = "csullender.com,/csullender.com"
+    fileDownloadsTracking = true
+    outboundLinksTracking = true
 
-[params.umamiAnalytics]
+[params.umami]
+    siteID = "d6527871-ec0b-4ff7-a839-3601a22d4549"
     scriptURL = "https://u.csullender.com/u.js"
-    websiteID = "d6527871-ec0b-4ff7-a839-3601a22d4549"
+    domain = "csullender.com"
 
 [taxonomies]
     tag = "tags"
