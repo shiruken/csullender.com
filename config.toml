@@ -90,44 +90,37 @@ googleAnalytics = "G-XKMRF7KB73"
 
 # Social Links
 [[params.social]]
-    name = "Mastodon"
-    icon = "fa fa-2x fa-mastodon-square"
-    weight = 2
-    url = "https://octodon.social/@shiruken"
-    rel = "me"
-    target = "_blank"
-[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-2x fa-linkedin-square"
-    weight = 3
+    weight = 1
     url = "https://www.linkedin.com/in/csullender/"
     rel = "me"
     target = "_blank"
 [[params.social]]
     name = "GitHub"
     icon = "fa fa-2x fa-github-square"
-    weight = 4
+    weight = 2
     url = "https://github.com/shiruken/"
     rel = "me"
     target = "_blank"
 [[params.social]]
     name = "ResearchGate"
     icon = "ai fa-2x ai-researchgate-square"
-    weight = 5
+    weight = 3
     url = "https://www.researchgate.net/profile/Colin_Sullender"
     rel = "me"
     target = "_blank"
 [[params.social]]
     name = "ORCID"
     icon = "ai fa-2x ai-orcid-square"
-    weight = 6
+    weight = 4
     url = "https://orcid.org/0000-0003-4329-7708"
     rel = "me"
     target = "_blank"
 [[params.social]]
     name = "Google Scholar"
     icon = "ai fa-2x ai-google-scholar-square"
-    weight = 7
+    weight = 5
     url = "https://scholar.google.com/citations?user=29wBsHgAAAAJ"
     rel = "me"
     target = "_blank"
