@@ -17,7 +17,7 @@ The r/science community on Reddit is the largest science discussion platform on 
 
 Behind the scenes, I implemented a comprehensive tracking system using the Reddit API in order to better understand the dynamics and reach of our content, optimize automated moderation practices, and to guide future decision making for the subreddit. I also designed the current branding and style used by the desktop website.
 
-[![Screenshot of Reddit r/science](Reddit-Science.png)](https://www.reddit.com/r/science/ "Visit the r/science subreddit")
+![Screenshot of Reddit r/science](Reddit-Science.png)
 
 # Functional Optical Imaging Laboratory (2014 - 2022)
 
@@ -25,7 +25,7 @@ Behind the scenes, I implemented a comprehensive tracking system using the Reddi
 
 I developed and maintained the website for my academic research lab at the University of Texas at Austin. The website was built using [Hugo](https://gohugo.io/) using the [Wowchemy](https://wowchemy.com/) module for the design and hosted on [GitHub Pages](https://pages.github.com/).
 
-[![Screenshot of FOIL website](FOIL.png)](https://foil.bme.utexas.edu/ "Visit the FOIL website")
+![Screenshot of FOIL website](FOIL.png)
 
 
 # Google+ 'Science GIFs' Collection (2015 - 2018)

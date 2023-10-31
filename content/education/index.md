@@ -15,7 +15,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 
 
 &nbsp;
-[![University of Texas at Austin](/images/ut_banner.png)](https://www.utexas.edu/ "Visit the University of Texas website")
+![University of Texas at Austin](/images/ut_banner.png)
 
 **Ph.D., Biomedical Engineering** (December 2018)
 
@@ -31,7 +31,7 @@ _Affiliations_ - Functional Optical Imaging Laboratory (FOIL), SPIE, OSA, Biomed
 _Awards_ - Ruth Kirschstein T32 Imaging Sciences and Informatics Portfolio Graduate Fellow, Cullen M. Crain Endowed Cockrell School of Engineering Graduate Fellow, A.J. and Pat Welch Graduate Fellow, Temple Foundation Graduate Fellow
 
 &nbsp;
-[![University of Washington](/images/uw_banner.png)](https://www.washington.edu/ "Visit the University of Washington website")
+![University of Washington](/images/uw_banner.png)
 
 **B.S., Bioengineering** (June 2011)
 
@@ -44,6 +44,6 @@ _Affiliations_ - Dr. Wendy Thomas Lab, Biomedical Engineering Society (BMES), Un
 _Awards_ - College Honors in Bioengineering, Bioengineering Senior Capstone Scholar, Quarterly + Annual Dean's List, UW Honors Achievement Award
 
 &nbsp;
-[![Homewood High School](/images/homewood_banner.png)](https://www.homewood.k12.al.us/hhs "Visit the Homewood High School website")
+![Homewood High School](/images/homewood_banner.png)
 
 **Advanced Diploma** (May 2007)

@@ -9,7 +9,7 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](https://www.researchgate.net/profile/Colin_Sullender). View my [CV](/cv.pdf). Learn about my [education](/education).
 
 &nbsp;
-[![University of Texas at Austin](/images/ut_banner.png)](https://www.utexas.edu/ "Visit the University of Texas website")
+![University of Texas at Austin](/images/ut_banner.png)
 
 **Advisor:** [Andrew K. Dunn, Ph.D.](https://foil.bme.utexas.edu/ "View lab website") ([Department of Biomedical Engineering](https://www.bme.utexas.edu/ "Visit the Department of Biomedical Engineering website"))
 
@@ -70,7 +70,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 * Delivery of oxygen-sensitive two-photon contrast agent to the mouse brain via blood brain barrier disruption using ultrasound and microbubbles ([BMES 2013](https://web.archive.org/web/20220623194425/https://submissions.mirasmart.com/SecureView/BMESArchive/rad2jkahx44.pdf))
 
 &nbsp;
-[![University of Washington](/images/uw_banner.png)](https://www.washington.edu/ "Visit the University of Washington website")
+![University of Washington](/images/uw_banner.png)
 
 **Advisor:** [Wendy Thomas, Ph.D.](http://faculty.washington.edu/wendyt/index.html "View lab website") ([Department of Bioengineering](https://bioe.uw.edu/ "Visit the Department of Bioengineering website"))
 
@@ -81,7 +81,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [ResearchGate](
 **Poster:** Demonstrating functionality of fluorogen-activating protein force sensor ([UW Undergraduate Research Symposium 2011](https://expo.uw.edu/expo/apply/231/proceedings/result?student_name=Sullender&commit=Search#))
 
 &nbsp;
-[![University of Alabama at Birmingham](/images/uab_banner.png)](https://www.uab.edu/ "Visit the University of Alabama at Birmingham website")
+![University of Alabama at Birmingham](/images/uab_banner.png)
 
 **Advisor:** Ming Luo, Ph.D. (Center for Biophysical Sciences and Engineering)
 
