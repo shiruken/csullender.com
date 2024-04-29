@@ -40,8 +40,8 @@ googleAnalytics = "G-XKMRF7KB73"
 # Theme Parameters
 [params]
     author = "Colin Sullender"
-    info = "Postdoctoral Researcher and Biomedical Engineer"
-    description = "Welcome to the personal website of Colin Sullender, a postdoctoral researcher at the University of Texas at Austin specializing in optical imaging system design and digital image processing for biomedical applications."
+    info = "Biomedical Engineer"
+    description = "Welcome to the personal website of Colin Sullender, a biomedical engineer specializing in optical imaging system design and digital image processing for biomedical applications."
     keywords = "personal,blog,biomedical,engineer,optics,researcher"
 
     avatarurl = "images/avatar.jpg"
