@@ -11,7 +11,7 @@ Since this page only displays "active" incidents, I started tracking all unique 
 
 ### Incidents over Time
 
-Between February 14 and 22, over 2,100 broken water pipe incidents were reported with the [AFD only able to respond to a fraction of these calls](https://twitter.com/AustinFireInfo/status/1361828649507332098). The majority of incidents were reported on February 15th and 16th as temperatures plummeted into the single digits (in Fahrenheit) overnight with a peak of almost **90 reports in a single hour**. As temperatures warmed to near freezing on February 17th, the report rate declined substantially despite power [ not being fully restored until several days later on February 21st](https://www.statesman.com/story/news/2021/02/21/austin-energy-power-back-100-percent-customers-after-ercot-shutdown/4536979001/).
+Between February 14 and 22, over 2,100 broken water pipe incidents were reported with the [AFD only able to respond to a fraction of these calls](https://twitter.com/AustinFireInfo/status/1361828649507332098). The majority of incidents were reported on February 15th and 16th as temperatures plummeted into the single digits (in Fahrenheit) overnight with a peak of almost **90 reports in a single hour**. As temperatures warmed to near freezing on February 17th, the report rate declined substantially despite power [not being fully restored until several days later on February 21st](https://www.statesman.com/story/news/2021/02/21/austin-energy-power-back-100-percent-customers-after-ercot-shutdown/4536979001/).
 
 ![Chart of hourly broken water pipe incident reports](hourly.png)
 
@@ -37,6 +37,6 @@ Zoomed in on South Austin:
 
 Finally, I aggregated the incident reports by ZIP code to create this interactive choropleth map:
 
-{{< iframe "map.html" >}}
+{{< iframe src="map.html" >}}
 
 The ZIP code with the most incidents was 78759 located along US 183 and west of Mopac in northwest Austin. It's difficult to say why exactly this region was hit so hard, but it could be a combination of a lack of critical infrastructure that resulted in longer blackouts and newer home/apartment construction of potentially questionable quality.
