@@ -1,1 +1,16 @@
-<iframe src="{{ .Get "src" }}" width="100%" height="600" frameborder="0"></iframe>
+<!-- Based on https://discourse.gohugo.io/t/shortcode-for-iframe-breaking-at-update-hugo-122-x-123-8/48904/16 -->
+{{ with .Get "src" }}
+  {{ $u := urls.Parse . }}
+  {{ if $u.IsAbs }}
+    {{ errorf "The src argument passed to the %q shortcode may not be an absolute URL. See %s" $.Name $.Position }}
+  {{ else }}
+    {{ with $.Page.Resources.Get $u.Path }}
+      {{ $src := (.Content | resources.FromString .Path).RelPermalink }}
+      <iframe src="{{ $src }}" width="100%" height="600" frameborder="0">The <a href="{{ $src }}">embedded content</a> cannot be displayed.</iframe>
+    {{ else }}
+      {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $u.Path $.Position }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires a src argument. See %s" .Name .Position }}
+{{ end }}
