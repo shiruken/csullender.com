@@ -13,8 +13,9 @@ enableGitInfo = true
 [markup.highlight]
     style = "dracula"
 
-disqusShortname = "csullender"
-enableRobotsTXT = true
+[services]
+    [services.disqus]
+        shortname = "csullender"
 
 googleAnalytics = "G-XKMRF7KB73"
 
@@ -43,13 +44,13 @@ googleAnalytics = "G-XKMRF7KB73"
     info = "Biomedical Engineer"
     description = "Welcome to the personal website of Colin Sullender, a biomedical engineer specializing in optical imaging system design and digital image processing for biomedical applications."
     keywords = "personal,blog,biomedical,engineer,optics,researcher"
-
+    
     avatarurl = "images/avatar.jpg"
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
 
-    colorScheme = "light"
-    hideColorSchemeToggle = true
+    colorScheme = "auto"
+    hideColorSchemeToggle = false
     rtl = false
     math = false
 
