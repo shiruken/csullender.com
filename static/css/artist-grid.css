@@ -32,8 +32,16 @@ div.artist-grid-entry {
     text-decoration: none;
 }
 
-.artist-grid-entry a:hover, .artist-grid-entry a:active {
-    color: #d50000;
+body.colorscheme-dark .artist-grid-entry a,
+body.colorscheme-dark .artist-grid-entry a:link,
+body.colorscheme-dark .artist-grid-entry a:visited {
+    color: #D9D9D9;
+}
+
+.artist-grid-entry a:hover, .artist-grid-entry a:active,
+body.colorscheme-dark .artist-grid-entry a:hover, 
+body.colorscheme-dark .artist-grid-entry a:active {
+    color: #D50000;
 }
 
 .artist-grid-entry a:hover img, .artist-grid-entry a:active img {
