@@ -9,6 +9,16 @@ draft: false
 Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https://github.com/shiruken/). Check out my [websites](/websites).
 
 
+# Reddit Developer Platform
+
+I was a beta tester for [Reddit's Developer Platform](https://developers.reddit.com/) (Devvit) and developed several utility apps to assist with subreddit moderation tasks. All of the apps are written in [TypeScript](https://www.typescriptlang.org/) (my first experience with the language).
+
+* [Moderator Mentions](https://developers.reddit.com/apps/mod-mentions): Get notified about moderator username mentions in your subreddit and (optionally) action the content. [[Source](https://github.com/shiruken/mod-mentions)]
+* [Only Flairs](https://developers.reddit.com/apps/only-flairs): Easily restrict commenting on individual posts to only users flaired in your subreddit. [[Source](https://github.com/shiruken/only-flairs)]
+* [Admin Tattler](https://developers.reddit.com/apps/admin-tattler): Get notified when the Reddit Admins action content in your subreddit. [[Source](https://github.com/shiruken/admin-tattler)]
+* [Link Cleaner](https://developers.reddit.com/apps/link-cleaner): Frustrated with the new shortened share link format that hides submission details and obfuscates tracker tags? Use Link Cleaner to easily copy a sanitized permalink to a post or comment. [[Source](https://github.com/shiruken/link-cleaner)]
+
+
 # Reddit r/science DOI Checker
 
 Automatic [digital object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier) lookup for posts on the [r/science community](https://www.reddit.com/r/science/) used to facilitate the moderation of reposts and other invalid submissions. Powered by [PRAW](https://praw.readthedocs.io/) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for parsing website content and [Flask](https://flask.palletsprojects.com/) for generating the frontend interface. Hosted using [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/).
@@ -18,7 +28,7 @@ Automatic [digital object identifier (DOI)](https://en.wikipedia.org/wiki/Digita
 
 # Texas COVID-19 Vaccine Tracker
 
-[covid-texas.csullender.com/vaccine](https://covid-texas.csullender.com/vaccine/) ([GitHub](https://github.com/shiruken/covid-texas))
+[covid-texas.csullender.com/vaccine](https://covid-texas.csullender.com/vaccine/) ([Source](https://github.com/shiruken/covid-texas))
 
 Visualization of county-level Texas COVID-19 vaccination data. Tracks the number of doses that have been allocated/shipped to providers and administered across the state. Data is scraped daily from the [Texas DSHS dashboard](https://tabexternal.dshs.texas.gov/#/site/THD/views/COVID%2d19VaccineinTexasDashboard/Summary) using Python with [pandas](https://pandas.pydata.org/) and accumulated into a time series. The website is built with [D3.js](https://d3js.org/) and deployed and hosted using [GitHub Pages](https://pages.github.com/).
 
@@ -27,7 +37,7 @@ Visualization of county-level Texas COVID-19 vaccination data. Tracks the number
 
 # Texas COVID-19 Hospital Resource Usage
 
-[covid-texas.csullender.com](https://covid-texas.csullender.com/) ([GitHub](https://github.com/shiruken/covid-texas))
+[covid-texas.csullender.com](https://covid-texas.csullender.com/) ([Source](https://github.com/shiruken/covid-texas))
 
 Visualization of [Texas Department of State Health Services](https://www.dshs.state.tx.us/) data for regional hospital resource availability across the state. Highlights the impact COVID-19 hospitalizations are having on hospital bed and ICU bed usage. The raw data is extracted with Python using [pandas](https://pandas.pydata.org/). The website is built with [D3.js](https://d3js.org/) and deployed and hosted using [GitHub Pages](https://pages.github.com/).
 
@@ -36,7 +46,7 @@ Visualization of [Texas Department of State Health Services](https://www.dshs.st
 
 # COVID-19 Case Map
 
-[covid.csullender.com](https://covid.csullender.com/) ([GitHub](https://github.com/shiruken/covid))
+[covid.csullender.com](https://covid.csullender.com/) ([Source](https://github.com/shiruken/covid))
 
 Zoomable choropleth map of confirmed COVID-19 cases in the United States built with [D3.js](https://d3js.org/). Data sourced from the [COVID Tracking Project](https://covidtracking.com/) and [USAFacts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/) and regularly updated using Python + [pandas](https://pandas.pydata.org/). The website is deployed and hosted using [GitHub Pages](https://pages.github.com/).
 
