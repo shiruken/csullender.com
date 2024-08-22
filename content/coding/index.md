@@ -19,6 +19,15 @@ I was a beta tester for [Reddit's Developer Platform](https://developers.reddit.
 * [Link Cleaner](https://developers.reddit.com/apps/link-cleaner): Frustrated with the new shortened share link format that hides submission details and obfuscates tracker tags? Use Link Cleaner to easily copy a sanitized permalink to a post or comment. [[Source](https://github.com/shiruken/link-cleaner)]
 
 
+# Rooster Teeth Website Archival Progress
+
+[https://shiruken.github.io/rt-archive/](https://shiruken.github.io/rt-archive/) ([Source](https://github.com/shiruken/rt-archive))
+
+Track the status of the [Rooster Teeth](https://en.wikipedia.org/wiki/Rooster_Teeth) website mirror on [Internet Archive](https://archive.org/details/roosterteetharchive?tab=collection&query=scanner%3Arooster&sort=-date). Originally created to monitor the progress of the [archival effort](https://archiveofpimps.com/) using the Rooster Teeth API. Tracks the completeness and availability of all 42,603 videos that were available on the platform prior to shutdown. Data processed and website generated with Python and hosted using [GitHub Pages](https://pages.github.com/).
+
+![Rooster Teeth Website Archival Progress](roosterteeth.png)
+
+
 # Reddit r/science DOI Checker
 
 Automatic [digital object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier) lookup for posts on the [r/science community](https://www.reddit.com/r/science/) used to facilitate the moderation of reposts and other invalid submissions. Powered by [PRAW](https://praw.readthedocs.io/) using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for parsing website content and [Flask](https://flask.palletsprojects.com/) for generating the frontend interface. Hosted using [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/).
