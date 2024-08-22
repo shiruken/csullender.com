@@ -11,12 +11,12 @@ Add me on [LinkedIn](https://www.linkedin.com/in/csullender) and [GitHub](https:
 
 # Reddit Developer Platform
 
-I was a beta tester for [Reddit's Developer Platform](https://developers.reddit.com/) (Devvit) and developed several utility apps to assist with subreddit moderation tasks. All of the apps are written in [TypeScript](https://www.typescriptlang.org/) (my first experience with the language).
+Beta tester and developer on the [Reddit Developer Platform](https://developers.reddit.com/) (Devvit). I developed several utility apps to assist with common subreddit moderation tasks. All of the apps were written in [TypeScript](https://www.typescriptlang.org/) (my first experience with the language).
 
+* [Admin Tattler](https://developers.reddit.com/apps/admin-tattler): Get notified when the Reddit Admins action content in your subreddit. [[Source](https://github.com/shiruken/admin-tattler)]
 * [Moderator Mentions](https://developers.reddit.com/apps/mod-mentions): Get notified about moderator username mentions in your subreddit and (optionally) action the content. [[Source](https://github.com/shiruken/mod-mentions)]
 * [Only Flairs](https://developers.reddit.com/apps/only-flairs): Easily restrict commenting on individual posts to only users flaired in your subreddit. [[Source](https://github.com/shiruken/only-flairs)]
-* [Admin Tattler](https://developers.reddit.com/apps/admin-tattler): Get notified when the Reddit Admins action content in your subreddit. [[Source](https://github.com/shiruken/admin-tattler)]
-* [Link Cleaner](https://developers.reddit.com/apps/link-cleaner): Frustrated with the new shortened share link format that hides submission details and obfuscates tracker tags? Use Link Cleaner to easily copy a sanitized permalink to a post or comment. [[Source](https://github.com/shiruken/link-cleaner)]
+* [User Scorer](https://developers.reddit.com/apps/user-scorer): Automatically report or remove comments from users based on their User Score, a metric quantifying their recent history in your subreddit. [[Source](https://github.com/shiruken/user-scorer/)]
 
 
 # Rooster Teeth Website Archival Progress
