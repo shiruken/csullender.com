@@ -1,8 +1,12 @@
+{{ $data := dict }}
+{{ with .Page.Resources.Get "artists.csv" }}
+    {{ with . | transform.Unmarshal }}
+        {{ $data = . }}
+    {{ end }}
+{{ end }}
 <link rel="stylesheet" href="/css/artist-grid.css" />
 <div id="artist-grid">
-{{ $data := "data/artists.csv" }}
-{{ $sep := "," }}
-{{ range $i, $r := getCSV $sep $data }}
+{{ range $i, $r := $data }}
     {{ $artist := index $r 0 }}
     {{ $artist_encoded := replace $artist " " "+"}}
     {{ $url := index $r 1 }}
