@@ -6,9 +6,11 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
 canonifyurls = false
 enableGitInfo = true
+
+[pagination]
+    pagerSize = 20
 
 [markup.highlight]
     style = "dracula"
