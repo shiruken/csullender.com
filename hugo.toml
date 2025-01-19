@@ -43,9 +43,9 @@ googleAnalytics = "G-XKMRF7KB73"
 # Theme Parameters
 [params]
     author = "Colin Sullender"
-    info = "Biomedical Engineer"
-    description = "Welcome to the personal website of Colin Sullender, a biomedical engineer specializing in optical imaging system design and digital image processing for biomedical applications."
-    keywords = "personal,blog,biomedical,engineer,optics,researcher"
+    info = "Optical Engineer"
+    description = "Welcome to the personal website of Colin Sullender, an optical engineer specializing in imaging system design and digital image processing."
+    keywords = "personal,blog,optical,biomedical,engineer,optics,researcher"
     
     avatarurl = "images/avatar.jpg"
     favicon_32 = "images/favicon-32x32.png"
