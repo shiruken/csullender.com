@@ -2,3 +2,5 @@ public
 resources
 .DS_Store
 *.lock
+**.direnv/
+**.ipynb_checkpoints/
