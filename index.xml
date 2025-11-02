@@ -863,6 +863,16 @@
  
  
  &lt;div class="artist-grid-entry">
+ &lt;a href="https://www.last.fm/music/Friendship&amp;#43;Games" title="View 'Friendship Games' on LastFM" target="_blank">
+ &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/361142f4f9a2a7d692b0441ee4fe8c7d.jpg" alt="Friendship Games" />
+ &lt;span>Friendship Games&lt;/span>
+ &lt;/a>
+ &lt;/div>
+
+ 
+ 
+ 
+ &lt;div class="artist-grid-entry">
  &lt;a href="https://www.last.fm/music/From&amp;#43;First&amp;#43;to&amp;#43;Last" title="View 'From First to Last' on LastFM" target="_blank">
  &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/969826b4e95743c9aea0924197cde817.jpg" alt="From First to Last" />
  &lt;span>From First to Last&lt;/span>
@@ -1056,6 +1066,16 @@
  &lt;a href="https://www.last.fm/music/Helms&amp;#43;Alee" title="View 'Helms Alee' on LastFM" target="_blank">
  &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/edf00609500f4125c1657bfa7067f683.jpg" alt="Helms Alee" />
  &lt;span>Helms Alee&lt;/span>
+ &lt;/a>
+ &lt;/div>
+
+ 
+ 
+ 
+ &lt;div class="artist-grid-entry">
+ &lt;a href="https://www.last.fm/music/Hercules&amp;#43;and&amp;#43;Love&amp;#43;Affair" title="View 'Hercules and Love Affair' on LastFM" target="_blank">
+ &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/853f9da0be47cc233c963e3076195b30.jpg" alt="Hercules and Love Affair" />
+ &lt;span>Hercules and Love Affair&lt;/span>
  &lt;/a>
  &lt;/div>
 
@@ -1936,6 +1956,16 @@
  &lt;a href="https://www.last.fm/music/Our&amp;#43;Last&amp;#43;Night" title="View 'Our Last Night' on LastFM" target="_blank">
  &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/9f485d93e8429de40b80c2df230e91b3.jpg" alt="Our Last Night" />
  &lt;span>Our Last Night&lt;/span>
+ &lt;/a>
+ &lt;/div>
+
+ 
+ 
+ 
+ &lt;div class="artist-grid-entry">
+ &lt;a href="https://www.last.fm/music/pacing" title="View 'pacing' on LastFM" target="_blank">
+ &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/635d5d513ae85648fa7d2e66418be6b9.jpg" alt="pacing" />
+ &lt;span>pacing&lt;/span>
  &lt;/a>
  &lt;/div>
 
