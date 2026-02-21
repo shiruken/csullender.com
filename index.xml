@@ -2413,6 +2413,16 @@
  
  
  &lt;div class="artist-grid-entry">
+ &lt;a href="https://www.last.fm/music/Softcult" title="View 'Softcult' on LastFM" target="_blank">
+ &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/48228cec4bda02db90b1cb6073f97b00.jpg" alt="Softcult" />
+ &lt;span>Softcult&lt;/span>
+ &lt;/a>
+ &lt;/div>
+
+ 
+ 
+ 
+ &lt;div class="artist-grid-entry">
  &lt;a href="https://www.last.fm/music/Sontalk" title="View 'Sontalk' on LastFM" target="_blank">
  &lt;img src="https://lastfm.freetls.fastly.net/i/u/avatar170s/557b88bb047f1a664ee632359f9b7efb.jpg" alt="Sontalk" />
  &lt;span>Sontalk&lt;/span>
