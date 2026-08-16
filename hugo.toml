@@ -3,7 +3,7 @@ title = "Colin Sullender"
 
 theme = "hugo-coder"
 
-languagecode = "en"
+locale = "en"
 defaultcontentlanguage = "en"
 
 canonifyurls = false
