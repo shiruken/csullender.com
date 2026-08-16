@@ -27,6 +27,8 @@ enableGitInfo = true
 [taxonomies]
     tag = "tags"
 
+[security]
+    allowContent = ['^text/markdown$', '^text/html$']
 
 # Theme Parameters
 [params]
